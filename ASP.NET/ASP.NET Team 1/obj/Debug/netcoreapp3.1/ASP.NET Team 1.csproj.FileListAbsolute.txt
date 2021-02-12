@@ -1,0 +1,940 @@
+C:\Users\LM\Desktop\ASP.NET Team 1\ASP.NET Team 1\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\LM\Desktop\ASP.NET Team 1\ASP.NET Team 1\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\LM\Desktop\ASP.NET Team 1\ASP.NET Team 1\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\LM\Desktop\ASP.NET Team 1\ASP.NET Team 1\bin\Debug\netcoreapp3.1\ASP.NET Team 1.exe
+C:\Users\LM\Desktop\ASP.NET Team 1\ASP.NET Team 1\bin\Debug\netcoreapp3.1\ASP.NET Team 1.deps.json
+C:\Users\LM\Desktop\ASP.NET Team 1\ASP.NET Team 1\bin\Debug\netcoreapp3.1\ASP.NET Team 1.runtimeconfig.json
+C:\Users\LM\Desktop\ASP.NET Team 1\ASP.NET Team 1\bin\Debug\netcoreapp3.1\ASP.NET Team 1.runtimeconfig.dev.json
+C:\Users\LM\Desktop\ASP.NET Team 1\ASP.NET Team 1\bin\Debug\netcoreapp3.1\ASP.NET Team 1.dll
+C:\Users\LM\Desktop\ASP.NET Team 1\ASP.NET Team 1\bin\Debug\netcoreapp3.1\ASP.NET Team 1.pdb
+C:\Users\LM\Desktop\ASP.NET Team 1\ASP.NET Team 1\bin\Debug\netcoreapp3.1\ASP.NET Team 1.Views.dll
+C:\Users\LM\Desktop\ASP.NET Team 1\ASP.NET Team 1\bin\Debug\netcoreapp3.1\ASP.NET Team 1.Views.pdb
+C:\Users\LM\Desktop\ASP.NET Team 1\ASP.NET Team 1\obj\Debug\netcoreapp3.1\ASP.NET Team 1.csprojAssemblyReference.cache
+C:\Users\LM\Desktop\ASP.NET Team 1\ASP.NET Team 1\obj\Debug\netcoreapp3.1\ASP.NET Team 1.AssemblyInfoInputs.cache
+C:\Users\LM\Desktop\ASP.NET Team 1\ASP.NET Team 1\obj\Debug\netcoreapp3.1\ASP.NET Team 1.AssemblyInfo.cs
+C:\Users\LM\Desktop\ASP.NET Team 1\ASP.NET Team 1\obj\Debug\netcoreapp3.1\ASP.NET Team 1.RazorAssemblyInfo.cache
+C:\Users\LM\Desktop\ASP.NET Team 1\ASP.NET Team 1\obj\Debug\netcoreapp3.1\ASP.NET Team 1.RazorAssemblyInfo.cs
+C:\Users\LM\Desktop\ASP.NET Team 1\ASP.NET Team 1\obj\Debug\netcoreapp3.1\ASP.NET Team 1.TagHelpers.input.cache
+C:\Users\LM\Desktop\ASP.NET Team 1\ASP.NET Team 1\obj\Debug\netcoreapp3.1\ASP.NET Team 1.TagHelpers.output.cache
+C:\Users\LM\Desktop\ASP.NET Team 1\ASP.NET Team 1\obj\Debug\netcoreapp3.1\ASP.NET Team 1.RazorCoreGenerate.cache
+C:\Users\LM\Desktop\ASP.NET Team 1\ASP.NET Team 1\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\LM\Desktop\ASP.NET Team 1\ASP.NET Team 1\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\LM\Desktop\ASP.NET Team 1\ASP.NET Team 1\obj\Debug\netcoreapp3.1\Razor\Views\Login\Index.cshtml.g.cs
+C:\Users\LM\Desktop\ASP.NET Team 1\ASP.NET Team 1\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\LM\Desktop\ASP.NET Team 1\ASP.NET Team 1\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\LM\Desktop\ASP.NET Team 1\ASP.NET Team 1\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\LM\Desktop\ASP.NET Team 1\ASP.NET Team 1\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\LM\Desktop\ASP.NET Team 1\ASP.NET Team 1\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\LM\Desktop\ASP.NET Team 1\ASP.NET Team 1\obj\Debug\netcoreapp3.1\ASP.NET Team 1.RazorTargetAssemblyInfo.cache
+C:\Users\LM\Desktop\ASP.NET Team 1\ASP.NET Team 1\obj\Debug\netcoreapp3.1\ASP.NET Team 1.RazorTargetAssemblyInfo.cs
+C:\Users\LM\Desktop\ASP.NET Team 1\ASP.NET Team 1\obj\Debug\netcoreapp3.1\ASP.NET Team 1.Views.pdb
+C:\Users\LM\Desktop\ASP.NET Team 1\ASP.NET Team 1\obj\Debug\netcoreapp3.1\staticwebassets\ASP.NET Team 1.StaticWebAssets.Manifest.cache
+C:\Users\LM\Desktop\ASP.NET Team 1\ASP.NET Team 1\obj\Debug\netcoreapp3.1\staticwebassets\ASP.NET Team 1.StaticWebAssets.xml
+C:\Users\LM\Desktop\ASP.NET Team 1\ASP.NET Team 1\obj\Debug\netcoreapp3.1\ASP.NET Team 1.dll
+C:\Users\LM\Desktop\ASP.NET Team 1\ASP.NET Team 1\obj\Debug\netcoreapp3.1\ASP.NET Team 1.pdb
+C:\Users\LM\Desktop\ASP.NET Team 1\ASP.NET Team 1\obj\Debug\netcoreapp3.1\ASP.NET Team 1.genruntimeconfig.cache
+C:\Users\LM\Desktop\ASP.NET Team 1\ASP.NET Team 1\obj\Debug\netcoreapp3.1\ASP.NET Team 1.csproj.CopyComplete
+C:\Users\LM\Desktop\ASP.NET Team 1\ASP.NET Team 1\obj\Debug\netcoreapp3.1\ASP.NET Team 1.csproj.CoreCompileInputs.cache
+C:\Users\LM\Desktop\ASP.NET Team 1\ASP.NET Team 1\obj\Debug\netcoreapp3.1\ASP.NET Team 1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\LM\Desktop\ASP.NET Team 1\ASP.NET Team 1\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\LM\Desktop\ASP.NET Team 1\ASP.NET Team 1\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\LM\Desktop\ASP.NET Team 1\ASP.NET Team 1\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\LM\Desktop\ASP.NET Team 1\ASP.NET Team 1\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\LM\Desktop\ASP.NET Team 1\ASP.NET Team 1\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\LM\Desktop\ASP.NET Team 1\ASP.NET Team 1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\LM\Desktop\ASP.NET Team 1 - LM\ASP.NET Team 1\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\LM\Desktop\ASP.NET Team 1 - LM\ASP.NET Team 1\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\LM\Desktop\ASP.NET Team 1 - LM\ASP.NET Team 1\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\LM\Desktop\ASP.NET Team 1 - LM\ASP.NET Team 1\bin\Debug\netcoreapp3.1\ASP.NET Team 1.exe
+C:\Users\LM\Desktop\ASP.NET Team 1 - LM\ASP.NET Team 1\bin\Debug\netcoreapp3.1\ASP.NET Team 1.deps.json
+C:\Users\LM\Desktop\ASP.NET Team 1 - LM\ASP.NET Team 1\bin\Debug\netcoreapp3.1\ASP.NET Team 1.runtimeconfig.json
+C:\Users\LM\Desktop\ASP.NET Team 1 - LM\ASP.NET Team 1\bin\Debug\netcoreapp3.1\ASP.NET Team 1.runtimeconfig.dev.json
+C:\Users\LM\Desktop\ASP.NET Team 1 - LM\ASP.NET Team 1\bin\Debug\netcoreapp3.1\ASP.NET Team 1.dll
+C:\Users\LM\Desktop\ASP.NET Team 1 - LM\ASP.NET Team 1\bin\Debug\netcoreapp3.1\ASP.NET Team 1.pdb
+C:\Users\LM\Desktop\ASP.NET Team 1 - LM\ASP.NET Team 1\bin\Debug\netcoreapp3.1\ASP.NET Team 1.Views.dll
+C:\Users\LM\Desktop\ASP.NET Team 1 - LM\ASP.NET Team 1\bin\Debug\netcoreapp3.1\ASP.NET Team 1.Views.pdb
+C:\Users\LM\Desktop\ASP.NET Team 1 - LM\ASP.NET Team 1\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\LM\Desktop\ASP.NET Team 1 - LM\ASP.NET Team 1\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\LM\Desktop\ASP.NET Team 1 - LM\ASP.NET Team 1\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\LM\Desktop\ASP.NET Team 1 - LM\ASP.NET Team 1\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\LM\Desktop\ASP.NET Team 1 - LM\ASP.NET Team 1\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\LM\Desktop\ASP.NET Team 1 - LM\ASP.NET Team 1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\LM\Desktop\ASP.NET Team 1 - LM\ASP.NET Team 1\obj\Debug\netcoreapp3.1\ASP.NET Team 1.csprojAssemblyReference.cache
+C:\Users\LM\Desktop\ASP.NET Team 1 - LM\ASP.NET Team 1\obj\Debug\netcoreapp3.1\ASP.NET Team 1.AssemblyInfoInputs.cache
+C:\Users\LM\Desktop\ASP.NET Team 1 - LM\ASP.NET Team 1\obj\Debug\netcoreapp3.1\ASP.NET Team 1.AssemblyInfo.cs
+C:\Users\LM\Desktop\ASP.NET Team 1 - LM\ASP.NET Team 1\obj\Debug\netcoreapp3.1\ASP.NET Team 1.csproj.CoreCompileInputs.cache
+C:\Users\LM\Desktop\ASP.NET Team 1 - LM\ASP.NET Team 1\obj\Debug\netcoreapp3.1\ASP.NET Team 1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\LM\Desktop\ASP.NET Team 1 - LM\ASP.NET Team 1\obj\Debug\netcoreapp3.1\ASP.NET Team 1.RazorAssemblyInfo.cache
+C:\Users\LM\Desktop\ASP.NET Team 1 - LM\ASP.NET Team 1\obj\Debug\netcoreapp3.1\ASP.NET Team 1.RazorAssemblyInfo.cs
+C:\Users\LM\Desktop\ASP.NET Team 1 - LM\ASP.NET Team 1\obj\Debug\netcoreapp3.1\ASP.NET Team 1.TagHelpers.input.cache
+C:\Users\LM\Desktop\ASP.NET Team 1 - LM\ASP.NET Team 1\obj\Debug\netcoreapp3.1\ASP.NET Team 1.TagHelpers.output.cache
+C:\Users\LM\Desktop\ASP.NET Team 1 - LM\ASP.NET Team 1\obj\Debug\netcoreapp3.1\ASP.NET Team 1.RazorCoreGenerate.cache
+C:\Users\LM\Desktop\ASP.NET Team 1 - LM\ASP.NET Team 1\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\LM\Desktop\ASP.NET Team 1 - LM\ASP.NET Team 1\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\LM\Desktop\ASP.NET Team 1 - LM\ASP.NET Team 1\obj\Debug\netcoreapp3.1\Razor\Views\Login\Index.cshtml.g.cs
+C:\Users\LM\Desktop\ASP.NET Team 1 - LM\ASP.NET Team 1\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\LM\Desktop\ASP.NET Team 1 - LM\ASP.NET Team 1\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\LM\Desktop\ASP.NET Team 1 - LM\ASP.NET Team 1\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\LM\Desktop\ASP.NET Team 1 - LM\ASP.NET Team 1\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\LM\Desktop\ASP.NET Team 1 - LM\ASP.NET Team 1\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\LM\Desktop\ASP.NET Team 1 - LM\ASP.NET Team 1\obj\Debug\netcoreapp3.1\ASP.NET Team 1.RazorTargetAssemblyInfo.cache
+C:\Users\LM\Desktop\ASP.NET Team 1 - LM\ASP.NET Team 1\obj\Debug\netcoreapp3.1\ASP.NET Team 1.RazorTargetAssemblyInfo.cs
+C:\Users\LM\Desktop\ASP.NET Team 1 - LM\ASP.NET Team 1\obj\Debug\netcoreapp3.1\ASP.NET Team 1.Views.pdb
+C:\Users\LM\Desktop\ASP.NET Team 1 - LM\ASP.NET Team 1\obj\Debug\netcoreapp3.1\ASP.NET Team 1.csproj.CopyComplete
+C:\Users\LM\Desktop\ASP.NET Team 1 - LM\ASP.NET Team 1\obj\Debug\netcoreapp3.1\staticwebassets\ASP.NET Team 1.StaticWebAssets.Manifest.cache
+C:\Users\LM\Desktop\ASP.NET Team 1 - LM\ASP.NET Team 1\obj\Debug\netcoreapp3.1\staticwebassets\ASP.NET Team 1.StaticWebAssets.xml
+C:\Users\LM\Desktop\ASP.NET Team 1 - LM\ASP.NET Team 1\obj\Debug\netcoreapp3.1\ASP.NET Team 1.dll
+C:\Users\LM\Desktop\ASP.NET Team 1 - LM\ASP.NET Team 1\obj\Debug\netcoreapp3.1\ASP.NET Team 1.pdb
+C:\Users\LM\Desktop\ASP.NET Team 1 - LM\ASP.NET Team 1\obj\Debug\netcoreapp3.1\ASP.NET Team 1.genruntimeconfig.cache
+C:\Users\LM\Desktop\NUS Documents\School Notes\ASP\ASP CA\ASP.NET Team 1 - LM\ASP.NET Team 1\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\LM\Desktop\NUS Documents\School Notes\ASP\ASP CA\ASP.NET Team 1 - LM\ASP.NET Team 1\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\LM\Desktop\NUS Documents\School Notes\ASP\ASP CA\ASP.NET Team 1 - LM\ASP.NET Team 1\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\LM\Desktop\NUS Documents\School Notes\ASP\ASP CA\ASP.NET Team 1 - LM\ASP.NET Team 1\bin\Debug\netcoreapp3.1\ASP.NET Team 1.exe
+C:\Users\LM\Desktop\NUS Documents\School Notes\ASP\ASP CA\ASP.NET Team 1 - LM\ASP.NET Team 1\bin\Debug\netcoreapp3.1\ASP.NET Team 1.deps.json
+C:\Users\LM\Desktop\NUS Documents\School Notes\ASP\ASP CA\ASP.NET Team 1 - LM\ASP.NET Team 1\bin\Debug\netcoreapp3.1\ASP.NET Team 1.runtimeconfig.json
+C:\Users\LM\Desktop\NUS Documents\School Notes\ASP\ASP CA\ASP.NET Team 1 - LM\ASP.NET Team 1\bin\Debug\netcoreapp3.1\ASP.NET Team 1.runtimeconfig.dev.json
+C:\Users\LM\Desktop\NUS Documents\School Notes\ASP\ASP CA\ASP.NET Team 1 - LM\ASP.NET Team 1\bin\Debug\netcoreapp3.1\ASP.NET Team 1.dll
+C:\Users\LM\Desktop\NUS Documents\School Notes\ASP\ASP CA\ASP.NET Team 1 - LM\ASP.NET Team 1\bin\Debug\netcoreapp3.1\ASP.NET Team 1.pdb
+C:\Users\LM\Desktop\NUS Documents\School Notes\ASP\ASP CA\ASP.NET Team 1 - LM\ASP.NET Team 1\bin\Debug\netcoreapp3.1\ASP.NET Team 1.Views.dll
+C:\Users\LM\Desktop\NUS Documents\School Notes\ASP\ASP CA\ASP.NET Team 1 - LM\ASP.NET Team 1\bin\Debug\netcoreapp3.1\ASP.NET Team 1.Views.pdb
+C:\Users\LM\Desktop\NUS Documents\School Notes\ASP\ASP CA\ASP.NET Team 1 - LM\ASP.NET Team 1\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\LM\Desktop\NUS Documents\School Notes\ASP\ASP CA\ASP.NET Team 1 - LM\ASP.NET Team 1\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\LM\Desktop\NUS Documents\School Notes\ASP\ASP CA\ASP.NET Team 1 - LM\ASP.NET Team 1\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\LM\Desktop\NUS Documents\School Notes\ASP\ASP CA\ASP.NET Team 1 - LM\ASP.NET Team 1\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\LM\Desktop\NUS Documents\School Notes\ASP\ASP CA\ASP.NET Team 1 - LM\ASP.NET Team 1\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\LM\Desktop\NUS Documents\School Notes\ASP\ASP CA\ASP.NET Team 1 - LM\ASP.NET Team 1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\LM\Desktop\NUS Documents\School Notes\ASP\ASP CA\ASP.NET Team 1 - LM\ASP.NET Team 1\obj\Debug\netcoreapp3.1\ASP.NET Team 1.csprojAssemblyReference.cache
+C:\Users\LM\Desktop\NUS Documents\School Notes\ASP\ASP CA\ASP.NET Team 1 - LM\ASP.NET Team 1\obj\Debug\netcoreapp3.1\ASP.NET Team 1.AssemblyInfoInputs.cache
+C:\Users\LM\Desktop\NUS Documents\School Notes\ASP\ASP CA\ASP.NET Team 1 - LM\ASP.NET Team 1\obj\Debug\netcoreapp3.1\ASP.NET Team 1.AssemblyInfo.cs
+C:\Users\LM\Desktop\NUS Documents\School Notes\ASP\ASP CA\ASP.NET Team 1 - LM\ASP.NET Team 1\obj\Debug\netcoreapp3.1\ASP.NET Team 1.csproj.CoreCompileInputs.cache
+C:\Users\LM\Desktop\NUS Documents\School Notes\ASP\ASP CA\ASP.NET Team 1 - LM\ASP.NET Team 1\obj\Debug\netcoreapp3.1\ASP.NET Team 1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\LM\Desktop\NUS Documents\School Notes\ASP\ASP CA\ASP.NET Team 1 - LM\ASP.NET Team 1\obj\Debug\netcoreapp3.1\ASP.NET Team 1.RazorAssemblyInfo.cache
+C:\Users\LM\Desktop\NUS Documents\School Notes\ASP\ASP CA\ASP.NET Team 1 - LM\ASP.NET Team 1\obj\Debug\netcoreapp3.1\ASP.NET Team 1.RazorAssemblyInfo.cs
+C:\Users\LM\Desktop\NUS Documents\School Notes\ASP\ASP CA\ASP.NET Team 1 - LM\ASP.NET Team 1\obj\Debug\netcoreapp3.1\ASP.NET Team 1.TagHelpers.input.cache
+C:\Users\LM\Desktop\NUS Documents\School Notes\ASP\ASP CA\ASP.NET Team 1 - LM\ASP.NET Team 1\obj\Debug\netcoreapp3.1\ASP.NET Team 1.TagHelpers.output.cache
+C:\Users\LM\Desktop\NUS Documents\School Notes\ASP\ASP CA\ASP.NET Team 1 - LM\ASP.NET Team 1\obj\Debug\netcoreapp3.1\ASP.NET Team 1.RazorCoreGenerate.cache
+C:\Users\LM\Desktop\NUS Documents\School Notes\ASP\ASP CA\ASP.NET Team 1 - LM\ASP.NET Team 1\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\LM\Desktop\NUS Documents\School Notes\ASP\ASP CA\ASP.NET Team 1 - LM\ASP.NET Team 1\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\LM\Desktop\NUS Documents\School Notes\ASP\ASP CA\ASP.NET Team 1 - LM\ASP.NET Team 1\obj\Debug\netcoreapp3.1\Razor\Views\Login\Index.cshtml.g.cs
+C:\Users\LM\Desktop\NUS Documents\School Notes\ASP\ASP CA\ASP.NET Team 1 - LM\ASP.NET Team 1\obj\Debug\netcoreapp3.1\Razor\Views\MyPurchases\Index.cshtml.g.cs
+C:\Users\LM\Desktop\NUS Documents\School Notes\ASP\ASP CA\ASP.NET Team 1 - LM\ASP.NET Team 1\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\LM\Desktop\NUS Documents\School Notes\ASP\ASP CA\ASP.NET Team 1 - LM\ASP.NET Team 1\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\LM\Desktop\NUS Documents\School Notes\ASP\ASP CA\ASP.NET Team 1 - LM\ASP.NET Team 1\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\LM\Desktop\NUS Documents\School Notes\ASP\ASP CA\ASP.NET Team 1 - LM\ASP.NET Team 1\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\LM\Desktop\NUS Documents\School Notes\ASP\ASP CA\ASP.NET Team 1 - LM\ASP.NET Team 1\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\LM\Desktop\NUS Documents\School Notes\ASP\ASP CA\ASP.NET Team 1 - LM\ASP.NET Team 1\obj\Debug\netcoreapp3.1\ASP.NET Team 1.RazorTargetAssemblyInfo.cache
+C:\Users\LM\Desktop\NUS Documents\School Notes\ASP\ASP CA\ASP.NET Team 1 - LM\ASP.NET Team 1\obj\Debug\netcoreapp3.1\ASP.NET Team 1.RazorTargetAssemblyInfo.cs
+C:\Users\LM\Desktop\NUS Documents\School Notes\ASP\ASP CA\ASP.NET Team 1 - LM\ASP.NET Team 1\obj\Debug\netcoreapp3.1\ASP.NET Team 1.Views.pdb
+C:\Users\LM\Desktop\NUS Documents\School Notes\ASP\ASP CA\ASP.NET Team 1 - LM\ASP.NET Team 1\obj\Debug\netcoreapp3.1\ASP.NET Team 1.csproj.CopyComplete
+C:\Users\LM\Desktop\NUS Documents\School Notes\ASP\ASP CA\ASP.NET Team 1 - LM\ASP.NET Team 1\obj\Debug\netcoreapp3.1\staticwebassets\ASP.NET Team 1.StaticWebAssets.Manifest.cache
+C:\Users\LM\Desktop\NUS Documents\School Notes\ASP\ASP CA\ASP.NET Team 1 - LM\ASP.NET Team 1\obj\Debug\netcoreapp3.1\staticwebassets\ASP.NET Team 1.StaticWebAssets.xml
+C:\Users\LM\Desktop\NUS Documents\School Notes\ASP\ASP CA\ASP.NET Team 1 - LM\ASP.NET Team 1\obj\Debug\netcoreapp3.1\ASP.NET Team 1.dll
+C:\Users\LM\Desktop\NUS Documents\School Notes\ASP\ASP CA\ASP.NET Team 1 - LM\ASP.NET Team 1\obj\Debug\netcoreapp3.1\ASP.NET Team 1.pdb
+C:\Users\LM\Desktop\NUS Documents\School Notes\ASP\ASP CA\ASP.NET Team 1 - LM\ASP.NET Team 1\obj\Debug\netcoreapp3.1\ASP.NET Team 1.genruntimeconfig.cache
+C:\Users\LM\Desktop\NUS Documents\School Notes\ASP\ASP CA\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\LM\Desktop\NUS Documents\School Notes\ASP\ASP CA\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\LM\Desktop\NUS Documents\School Notes\ASP\ASP CA\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\LM\Desktop\NUS Documents\School Notes\ASP\ASP CA\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\ASP.NET Team 1.exe
+C:\Users\LM\Desktop\NUS Documents\School Notes\ASP\ASP CA\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\ASP.NET Team 1.deps.json
+C:\Users\LM\Desktop\NUS Documents\School Notes\ASP\ASP CA\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\ASP.NET Team 1.runtimeconfig.json
+C:\Users\LM\Desktop\NUS Documents\School Notes\ASP\ASP CA\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\ASP.NET Team 1.runtimeconfig.dev.json
+C:\Users\LM\Desktop\NUS Documents\School Notes\ASP\ASP CA\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\ASP.NET Team 1.dll
+C:\Users\LM\Desktop\NUS Documents\School Notes\ASP\ASP CA\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\ASP.NET Team 1.pdb
+C:\Users\LM\Desktop\NUS Documents\School Notes\ASP\ASP CA\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\ASP.NET Team 1.Views.dll
+C:\Users\LM\Desktop\NUS Documents\School Notes\ASP\ASP CA\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\ASP.NET Team 1.Views.pdb
+C:\Users\LM\Desktop\NUS Documents\School Notes\ASP\ASP CA\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\LM\Desktop\NUS Documents\School Notes\ASP\ASP CA\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\LM\Desktop\NUS Documents\School Notes\ASP\ASP CA\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\LM\Desktop\NUS Documents\School Notes\ASP\ASP CA\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\LM\Desktop\NUS Documents\School Notes\ASP\ASP CA\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\LM\Desktop\NUS Documents\School Notes\ASP\ASP CA\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\LM\Desktop\NUS Documents\School Notes\ASP\ASP CA\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\obj\Debug\netcoreapp3.1\ASP.NET Team 1.csprojAssemblyReference.cache
+C:\Users\LM\Desktop\NUS Documents\School Notes\ASP\ASP CA\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\obj\Debug\netcoreapp3.1\ASP.NET Team 1.AssemblyInfoInputs.cache
+C:\Users\LM\Desktop\NUS Documents\School Notes\ASP\ASP CA\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\obj\Debug\netcoreapp3.1\ASP.NET Team 1.AssemblyInfo.cs
+C:\Users\LM\Desktop\NUS Documents\School Notes\ASP\ASP CA\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\obj\Debug\netcoreapp3.1\ASP.NET Team 1.csproj.CoreCompileInputs.cache
+C:\Users\LM\Desktop\NUS Documents\School Notes\ASP\ASP CA\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\obj\Debug\netcoreapp3.1\ASP.NET Team 1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\LM\Desktop\NUS Documents\School Notes\ASP\ASP CA\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\obj\Debug\netcoreapp3.1\ASP.NET Team 1.RazorAssemblyInfo.cache
+C:\Users\LM\Desktop\NUS Documents\School Notes\ASP\ASP CA\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\obj\Debug\netcoreapp3.1\ASP.NET Team 1.RazorAssemblyInfo.cs
+C:\Users\LM\Desktop\NUS Documents\School Notes\ASP\ASP CA\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\obj\Debug\netcoreapp3.1\ASP.NET Team 1.TagHelpers.input.cache
+C:\Users\LM\Desktop\NUS Documents\School Notes\ASP\ASP CA\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\obj\Debug\netcoreapp3.1\ASP.NET Team 1.TagHelpers.output.cache
+C:\Users\LM\Desktop\NUS Documents\School Notes\ASP\ASP CA\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\obj\Debug\netcoreapp3.1\ASP.NET Team 1.RazorCoreGenerate.cache
+C:\Users\LM\Desktop\NUS Documents\School Notes\ASP\ASP CA\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\LM\Desktop\NUS Documents\School Notes\ASP\ASP CA\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\LM\Desktop\NUS Documents\School Notes\ASP\ASP CA\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\obj\Debug\netcoreapp3.1\Razor\Views\Login\Index.cshtml.g.cs
+C:\Users\LM\Desktop\NUS Documents\School Notes\ASP\ASP CA\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\obj\Debug\netcoreapp3.1\Razor\Views\MyPurchases\Index.cshtml.g.cs
+C:\Users\LM\Desktop\NUS Documents\School Notes\ASP\ASP CA\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\LM\Desktop\NUS Documents\School Notes\ASP\ASP CA\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\LM\Desktop\NUS Documents\School Notes\ASP\ASP CA\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\LM\Desktop\NUS Documents\School Notes\ASP\ASP CA\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\LM\Desktop\NUS Documents\School Notes\ASP\ASP CA\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\LM\Desktop\NUS Documents\School Notes\ASP\ASP CA\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\obj\Debug\netcoreapp3.1\ASP.NET Team 1.RazorTargetAssemblyInfo.cache
+C:\Users\LM\Desktop\NUS Documents\School Notes\ASP\ASP CA\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\obj\Debug\netcoreapp3.1\ASP.NET Team 1.RazorTargetAssemblyInfo.cs
+C:\Users\LM\Desktop\NUS Documents\School Notes\ASP\ASP CA\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\obj\Debug\netcoreapp3.1\ASP.NET Team 1.Views.pdb
+C:\Users\LM\Desktop\NUS Documents\School Notes\ASP\ASP CA\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\obj\Debug\netcoreapp3.1\ASP.NET Team 1.csproj.CopyComplete
+C:\Users\LM\Desktop\NUS Documents\School Notes\ASP\ASP CA\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\obj\Debug\netcoreapp3.1\staticwebassets\ASP.NET Team 1.StaticWebAssets.Manifest.cache
+C:\Users\LM\Desktop\NUS Documents\School Notes\ASP\ASP CA\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\obj\Debug\netcoreapp3.1\staticwebassets\ASP.NET Team 1.StaticWebAssets.xml
+C:\Users\LM\Desktop\NUS Documents\School Notes\ASP\ASP CA\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\obj\Debug\netcoreapp3.1\ASP.NET Team 1.dll
+C:\Users\LM\Desktop\NUS Documents\School Notes\ASP\ASP CA\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\obj\Debug\netcoreapp3.1\ASP.NET Team 1.pdb
+C:\Users\LM\Desktop\NUS Documents\School Notes\ASP\ASP CA\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\obj\Debug\netcoreapp3.1\ASP.NET Team 1.genruntimeconfig.cache
+C:\Users\LM\Desktop\NUS Documents\School Notes\ASP\ASP CA\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\obj\Debug\netcoreapp3.1\Razor\Views\Gallery\Index.cshtml.g.cs
+C:\Users\LM\Desktop\NUS Documents\School Notes\ASP\ASP CA\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\obj\Debug\netcoreapp3.1\Razor\Views\Gallery\Search.cshtml.g.cs
+C:\Users\LM\Documents\GitHub\ASP.NET-team-1\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\LM\Documents\GitHub\ASP.NET-team-1\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\LM\Documents\GitHub\ASP.NET-team-1\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\LM\Documents\GitHub\ASP.NET-team-1\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\ASP.NET Team 1.exe
+C:\Users\LM\Documents\GitHub\ASP.NET-team-1\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\ASP.NET Team 1.deps.json
+C:\Users\LM\Documents\GitHub\ASP.NET-team-1\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\ASP.NET Team 1.runtimeconfig.json
+C:\Users\LM\Documents\GitHub\ASP.NET-team-1\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\ASP.NET Team 1.runtimeconfig.dev.json
+C:\Users\LM\Documents\GitHub\ASP.NET-team-1\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\ASP.NET Team 1.dll
+C:\Users\LM\Documents\GitHub\ASP.NET-team-1\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\ASP.NET Team 1.pdb
+C:\Users\LM\Documents\GitHub\ASP.NET-team-1\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\ASP.NET Team 1.Views.dll
+C:\Users\LM\Documents\GitHub\ASP.NET-team-1\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\ASP.NET Team 1.Views.pdb
+C:\Users\LM\Documents\GitHub\ASP.NET-team-1\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\LM\Documents\GitHub\ASP.NET-team-1\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\LM\Documents\GitHub\ASP.NET-team-1\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\LM\Documents\GitHub\ASP.NET-team-1\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\LM\Documents\GitHub\ASP.NET-team-1\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\LM\Documents\GitHub\ASP.NET-team-1\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\LM\Documents\GitHub\ASP.NET-team-1\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\obj\Debug\netcoreapp3.1\ASP.NET Team 1.csprojAssemblyReference.cache
+C:\Users\LM\Documents\GitHub\ASP.NET-team-1\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\obj\Debug\netcoreapp3.1\ASP.NET Team 1.AssemblyInfoInputs.cache
+C:\Users\LM\Documents\GitHub\ASP.NET-team-1\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\obj\Debug\netcoreapp3.1\ASP.NET Team 1.AssemblyInfo.cs
+C:\Users\LM\Documents\GitHub\ASP.NET-team-1\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\obj\Debug\netcoreapp3.1\ASP.NET Team 1.RazorAssemblyInfo.cache
+C:\Users\LM\Documents\GitHub\ASP.NET-team-1\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\obj\Debug\netcoreapp3.1\ASP.NET Team 1.RazorAssemblyInfo.cs
+C:\Users\LM\Documents\GitHub\ASP.NET-team-1\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\obj\Debug\netcoreapp3.1\ASP.NET Team 1.TagHelpers.input.cache
+C:\Users\LM\Documents\GitHub\ASP.NET-team-1\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\obj\Debug\netcoreapp3.1\ASP.NET Team 1.TagHelpers.output.cache
+C:\Users\LM\Documents\GitHub\ASP.NET-team-1\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\obj\Debug\netcoreapp3.1\ASP.NET Team 1.RazorCoreGenerate.cache
+C:\Users\LM\Documents\GitHub\ASP.NET-team-1\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\obj\Debug\netcoreapp3.1\Razor\Views\Gallery\Index.cshtml.g.cs
+C:\Users\LM\Documents\GitHub\ASP.NET-team-1\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\obj\Debug\netcoreapp3.1\Razor\Views\Gallery\Search.cshtml.g.cs
+C:\Users\LM\Documents\GitHub\ASP.NET-team-1\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\LM\Documents\GitHub\ASP.NET-team-1\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\LM\Documents\GitHub\ASP.NET-team-1\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\obj\Debug\netcoreapp3.1\Razor\Views\Login\Index.cshtml.g.cs
+C:\Users\LM\Documents\GitHub\ASP.NET-team-1\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\obj\Debug\netcoreapp3.1\Razor\Views\MyPurchases\Index.cshtml.g.cs
+C:\Users\LM\Documents\GitHub\ASP.NET-team-1\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\LM\Documents\GitHub\ASP.NET-team-1\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\LM\Documents\GitHub\ASP.NET-team-1\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\LM\Documents\GitHub\ASP.NET-team-1\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\LM\Documents\GitHub\ASP.NET-team-1\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\LM\Documents\GitHub\ASP.NET-team-1\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\obj\Debug\netcoreapp3.1\ASP.NET Team 1.RazorTargetAssemblyInfo.cache
+C:\Users\LM\Documents\GitHub\ASP.NET-team-1\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\obj\Debug\netcoreapp3.1\ASP.NET Team 1.RazorTargetAssemblyInfo.cs
+C:\Users\LM\Documents\GitHub\ASP.NET-team-1\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\obj\Debug\netcoreapp3.1\ASP.NET Team 1.Views.pdb
+C:\Users\LM\Documents\GitHub\ASP.NET-team-1\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\obj\Debug\netcoreapp3.1\ASP.NET Team 1.csproj.CopyComplete
+C:\Users\LM\Documents\GitHub\ASP.NET-team-1\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\obj\Debug\netcoreapp3.1\staticwebassets\ASP.NET Team 1.StaticWebAssets.Manifest.cache
+C:\Users\LM\Documents\GitHub\ASP.NET-team-1\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\obj\Debug\netcoreapp3.1\staticwebassets\ASP.NET Team 1.StaticWebAssets.xml
+C:\Users\LM\Documents\GitHub\ASP.NET-team-1\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\obj\Debug\netcoreapp3.1\ASP.NET Team 1.dll
+C:\Users\LM\Documents\GitHub\ASP.NET-team-1\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\obj\Debug\netcoreapp3.1\ASP.NET Team 1.pdb
+C:\Users\LM\Documents\GitHub\ASP.NET-team-1\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\obj\Debug\netcoreapp3.1\ASP.NET Team 1.genruntimeconfig.cache
+C:\Users\LM\Documents\GitHub\ASP.NET-team-1\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\obj\Debug\netcoreapp3.1\ASP.NET Team 1.csproj.CoreCompileInputs.cache
+C:\Users\LM\Documents\GitHub\ASP.NET-team-1\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\obj\Debug\netcoreapp3.1\ASP.NET Team 1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\LM\Documents\GitHub\ASP.NET-team-1\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\obj\Debug\netcoreapp3.1\Razor\Views\Cart\index.cshtml.g.cs
+C:\Users\LM\Documents\GitHub\ASP.NET-team-1\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\obj\Debug\netcoreapp3.1\Razor\Views\checkout\Index.cshtml.g.cs
+C:\Users\eswar\OneDrive\Documents\GitHub\ASP.NET-team-1\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\eswar\OneDrive\Documents\GitHub\ASP.NET-team-1\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\eswar\OneDrive\Documents\GitHub\ASP.NET-team-1\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\eswar\OneDrive\Documents\GitHub\ASP.NET-team-1\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\ASP.NET Team 1.exe
+C:\Users\eswar\OneDrive\Documents\GitHub\ASP.NET-team-1\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\ASP.NET Team 1.deps.json
+C:\Users\eswar\OneDrive\Documents\GitHub\ASP.NET-team-1\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\ASP.NET Team 1.runtimeconfig.json
+C:\Users\eswar\OneDrive\Documents\GitHub\ASP.NET-team-1\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\ASP.NET Team 1.runtimeconfig.dev.json
+C:\Users\eswar\OneDrive\Documents\GitHub\ASP.NET-team-1\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\ASP.NET Team 1.dll
+C:\Users\eswar\OneDrive\Documents\GitHub\ASP.NET-team-1\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\ASP.NET Team 1.pdb
+C:\Users\eswar\OneDrive\Documents\GitHub\ASP.NET-team-1\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\ASP.NET Team 1.Views.dll
+C:\Users\eswar\OneDrive\Documents\GitHub\ASP.NET-team-1\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\ASP.NET Team 1.Views.pdb
+C:\Users\eswar\OneDrive\Documents\GitHub\ASP.NET-team-1\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\eswar\OneDrive\Documents\GitHub\ASP.NET-team-1\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\eswar\OneDrive\Documents\GitHub\ASP.NET-team-1\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\eswar\OneDrive\Documents\GitHub\ASP.NET-team-1\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\eswar\OneDrive\Documents\GitHub\ASP.NET-team-1\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\eswar\OneDrive\Documents\GitHub\ASP.NET-team-1\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\eswar\OneDrive\Documents\GitHub\ASP.NET-team-1\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\obj\Debug\netcoreapp3.1\ASP.NET Team 1.csprojAssemblyReference.cache
+C:\Users\eswar\OneDrive\Documents\GitHub\ASP.NET-team-1\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\obj\Debug\netcoreapp3.1\ASP.NET Team 1.AssemblyInfoInputs.cache
+C:\Users\eswar\OneDrive\Documents\GitHub\ASP.NET-team-1\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\obj\Debug\netcoreapp3.1\ASP.NET Team 1.AssemblyInfo.cs
+C:\Users\eswar\OneDrive\Documents\GitHub\ASP.NET-team-1\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\obj\Debug\netcoreapp3.1\ASP.NET Team 1.csproj.CoreCompileInputs.cache
+C:\Users\eswar\OneDrive\Documents\GitHub\ASP.NET-team-1\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\obj\Debug\netcoreapp3.1\ASP.NET Team 1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\eswar\OneDrive\Documents\GitHub\ASP.NET-team-1\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\obj\Debug\netcoreapp3.1\ASP.NET Team 1.RazorAssemblyInfo.cache
+C:\Users\eswar\OneDrive\Documents\GitHub\ASP.NET-team-1\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\obj\Debug\netcoreapp3.1\ASP.NET Team 1.RazorAssemblyInfo.cs
+C:\Users\eswar\OneDrive\Documents\GitHub\ASP.NET-team-1\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\obj\Debug\netcoreapp3.1\ASP.NET Team 1.TagHelpers.input.cache
+C:\Users\eswar\OneDrive\Documents\GitHub\ASP.NET-team-1\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\obj\Debug\netcoreapp3.1\ASP.NET Team 1.TagHelpers.output.cache
+C:\Users\eswar\OneDrive\Documents\GitHub\ASP.NET-team-1\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\obj\Debug\netcoreapp3.1\ASP.NET Team 1.RazorCoreGenerate.cache
+C:\Users\eswar\OneDrive\Documents\GitHub\ASP.NET-team-1\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\obj\Debug\netcoreapp3.1\Razor\Views\Cart\index.cshtml.g.cs
+C:\Users\eswar\OneDrive\Documents\GitHub\ASP.NET-team-1\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\obj\Debug\netcoreapp3.1\Razor\Views\checkout\Index.cshtml.g.cs
+C:\Users\eswar\OneDrive\Documents\GitHub\ASP.NET-team-1\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\obj\Debug\netcoreapp3.1\Razor\Views\Gallery\Index.cshtml.g.cs
+C:\Users\eswar\OneDrive\Documents\GitHub\ASP.NET-team-1\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\eswar\OneDrive\Documents\GitHub\ASP.NET-team-1\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\eswar\OneDrive\Documents\GitHub\ASP.NET-team-1\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\obj\Debug\netcoreapp3.1\Razor\Views\Login\Index.cshtml.g.cs
+C:\Users\eswar\OneDrive\Documents\GitHub\ASP.NET-team-1\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\obj\Debug\netcoreapp3.1\Razor\Views\MyPurchases\Index.cshtml.g.cs
+C:\Users\eswar\OneDrive\Documents\GitHub\ASP.NET-team-1\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\eswar\OneDrive\Documents\GitHub\ASP.NET-team-1\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\eswar\OneDrive\Documents\GitHub\ASP.NET-team-1\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\eswar\OneDrive\Documents\GitHub\ASP.NET-team-1\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\eswar\OneDrive\Documents\GitHub\ASP.NET-team-1\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\eswar\OneDrive\Documents\GitHub\ASP.NET-team-1\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\obj\Debug\netcoreapp3.1\ASP.NET Team 1.RazorTargetAssemblyInfo.cache
+C:\Users\eswar\OneDrive\Documents\GitHub\ASP.NET-team-1\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\obj\Debug\netcoreapp3.1\ASP.NET Team 1.RazorTargetAssemblyInfo.cs
+C:\Users\eswar\OneDrive\Documents\GitHub\ASP.NET-team-1\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\obj\Debug\netcoreapp3.1\ASP.NET Team 1.Views.pdb
+C:\Users\eswar\OneDrive\Documents\GitHub\ASP.NET-team-1\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\obj\Debug\netcoreapp3.1\ASP.NET Team 1.csproj.CopyComplete
+C:\Users\eswar\OneDrive\Documents\GitHub\ASP.NET-team-1\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\obj\Debug\netcoreapp3.1\staticwebassets\ASP.NET Team 1.StaticWebAssets.Manifest.cache
+C:\Users\eswar\OneDrive\Documents\GitHub\ASP.NET-team-1\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\obj\Debug\netcoreapp3.1\staticwebassets\ASP.NET Team 1.StaticWebAssets.xml
+C:\Users\eswar\OneDrive\Documents\GitHub\ASP.NET-team-1\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\obj\Debug\netcoreapp3.1\ASP.NET Team 1.dll
+C:\Users\eswar\OneDrive\Documents\GitHub\ASP.NET-team-1\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\obj\Debug\netcoreapp3.1\ASP.NET Team 1.pdb
+C:\Users\eswar\OneDrive\Documents\GitHub\ASP.NET-team-1\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\obj\Debug\netcoreapp3.1\ASP.NET Team 1.genruntimeconfig.cache
+C:\Users\LM\Desktop\ASP.NET-team-1 (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\LM\Desktop\ASP.NET-team-1 (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\LM\Desktop\ASP.NET-team-1 (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\LM\Desktop\ASP.NET-team-1 (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\ASP.NET Team 1.exe
+C:\Users\LM\Desktop\ASP.NET-team-1 (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\ASP.NET Team 1.deps.json
+C:\Users\LM\Desktop\ASP.NET-team-1 (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\ASP.NET Team 1.runtimeconfig.json
+C:\Users\LM\Desktop\ASP.NET-team-1 (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\ASP.NET Team 1.runtimeconfig.dev.json
+C:\Users\LM\Desktop\ASP.NET-team-1 (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\ASP.NET Team 1.dll
+C:\Users\LM\Desktop\ASP.NET-team-1 (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\ASP.NET Team 1.pdb
+C:\Users\LM\Desktop\ASP.NET-team-1 (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\ASP.NET Team 1.Views.dll
+C:\Users\LM\Desktop\ASP.NET-team-1 (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\ASP.NET Team 1.Views.pdb
+C:\Users\LM\Desktop\ASP.NET-team-1 (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\LM\Desktop\ASP.NET-team-1 (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\LM\Desktop\ASP.NET-team-1 (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\LM\Desktop\ASP.NET-team-1 (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\LM\Desktop\ASP.NET-team-1 (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\LM\Desktop\ASP.NET-team-1 (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\LM\Desktop\ASP.NET-team-1 (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\obj\Debug\netcoreapp3.1\ASP.NET Team 1.csprojAssemblyReference.cache
+C:\Users\LM\Desktop\ASP.NET-team-1 (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\obj\Debug\netcoreapp3.1\ASP.NET Team 1.AssemblyInfoInputs.cache
+C:\Users\LM\Desktop\ASP.NET-team-1 (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\obj\Debug\netcoreapp3.1\ASP.NET Team 1.AssemblyInfo.cs
+C:\Users\LM\Desktop\ASP.NET-team-1 (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\obj\Debug\netcoreapp3.1\ASP.NET Team 1.csproj.CoreCompileInputs.cache
+C:\Users\LM\Desktop\ASP.NET-team-1 (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\obj\Debug\netcoreapp3.1\ASP.NET Team 1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\LM\Desktop\ASP.NET-team-1 (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\obj\Debug\netcoreapp3.1\ASP.NET Team 1.RazorAssemblyInfo.cache
+C:\Users\LM\Desktop\ASP.NET-team-1 (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\obj\Debug\netcoreapp3.1\ASP.NET Team 1.RazorAssemblyInfo.cs
+C:\Users\LM\Desktop\ASP.NET-team-1 (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\obj\Debug\netcoreapp3.1\ASP.NET Team 1.TagHelpers.input.cache
+C:\Users\LM\Desktop\ASP.NET-team-1 (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\obj\Debug\netcoreapp3.1\ASP.NET Team 1.TagHelpers.output.cache
+C:\Users\LM\Desktop\ASP.NET-team-1 (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\obj\Debug\netcoreapp3.1\ASP.NET Team 1.RazorCoreGenerate.cache
+C:\Users\LM\Desktop\ASP.NET-team-1 (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\obj\Debug\netcoreapp3.1\Razor\Views\Cart\index.cshtml.g.cs
+C:\Users\LM\Desktop\ASP.NET-team-1 (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\obj\Debug\netcoreapp3.1\Razor\Views\checkout\Index.cshtml.g.cs
+C:\Users\LM\Desktop\ASP.NET-team-1 (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\obj\Debug\netcoreapp3.1\Razor\Views\Gallery\Index.cshtml.g.cs
+C:\Users\LM\Desktop\ASP.NET-team-1 (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\LM\Desktop\ASP.NET-team-1 (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\LM\Desktop\ASP.NET-team-1 (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\obj\Debug\netcoreapp3.1\Razor\Views\Login\Index.cshtml.g.cs
+C:\Users\LM\Desktop\ASP.NET-team-1 (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\obj\Debug\netcoreapp3.1\Razor\Views\MyPurchases\Index.cshtml.g.cs
+C:\Users\LM\Desktop\ASP.NET-team-1 (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\LM\Desktop\ASP.NET-team-1 (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_CartPurchView.cshtml.g.cs
+C:\Users\LM\Desktop\ASP.NET-team-1 (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\LM\Desktop\ASP.NET-team-1 (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginHeader.cshtml.g.cs
+C:\Users\LM\Desktop\ASP.NET-team-1 (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\LM\Desktop\ASP.NET-team-1 (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\LM\Desktop\ASP.NET-team-1 (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\LM\Desktop\ASP.NET-team-1 (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\obj\Debug\netcoreapp3.1\ASP.NET Team 1.RazorTargetAssemblyInfo.cache
+C:\Users\LM\Desktop\ASP.NET-team-1 (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\obj\Debug\netcoreapp3.1\ASP.NET Team 1.RazorTargetAssemblyInfo.cs
+C:\Users\LM\Desktop\ASP.NET-team-1 (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\obj\Debug\netcoreapp3.1\ASP.NET Team 1.Views.pdb
+C:\Users\LM\Desktop\ASP.NET-team-1 (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\obj\Debug\netcoreapp3.1\ASP.NET Team 1.csproj.CopyComplete
+C:\Users\LM\Desktop\ASP.NET-team-1 (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\obj\Debug\netcoreapp3.1\staticwebassets\ASP.NET Team 1.StaticWebAssets.Manifest.cache
+C:\Users\LM\Desktop\ASP.NET-team-1 (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\obj\Debug\netcoreapp3.1\staticwebassets\ASP.NET Team 1.StaticWebAssets.xml
+C:\Users\LM\Desktop\ASP.NET-team-1 (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\obj\Debug\netcoreapp3.1\ASP.NET Team 1.dll
+C:\Users\LM\Desktop\ASP.NET-team-1 (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\obj\Debug\netcoreapp3.1\ASP.NET Team 1.pdb
+C:\Users\LM\Desktop\ASP.NET-team-1 (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\obj\Debug\netcoreapp3.1\ASP.NET Team 1.genruntimeconfig.cache
+C:\Users\eswar\Downloads\ASP.NET-team-1-Final\ASP.NET-team-1 (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\eswar\Downloads\ASP.NET-team-1-Final\ASP.NET-team-1 (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\eswar\Downloads\ASP.NET-team-1-Final\ASP.NET-team-1 (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\eswar\Downloads\ASP.NET-team-1-Final\ASP.NET-team-1 (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\ASP.NET Team 1.exe
+C:\Users\eswar\Downloads\ASP.NET-team-1-Final\ASP.NET-team-1 (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\ASP.NET Team 1.deps.json
+C:\Users\eswar\Downloads\ASP.NET-team-1-Final\ASP.NET-team-1 (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\ASP.NET Team 1.runtimeconfig.json
+C:\Users\eswar\Downloads\ASP.NET-team-1-Final\ASP.NET-team-1 (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\ASP.NET Team 1.runtimeconfig.dev.json
+C:\Users\eswar\Downloads\ASP.NET-team-1-Final\ASP.NET-team-1 (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\ASP.NET Team 1.dll
+C:\Users\eswar\Downloads\ASP.NET-team-1-Final\ASP.NET-team-1 (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\ASP.NET Team 1.pdb
+C:\Users\eswar\Downloads\ASP.NET-team-1-Final\ASP.NET-team-1 (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\ASP.NET Team 1.Views.dll
+C:\Users\eswar\Downloads\ASP.NET-team-1-Final\ASP.NET-team-1 (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\ASP.NET Team 1.Views.pdb
+C:\Users\eswar\Downloads\ASP.NET-team-1-Final\ASP.NET-team-1 (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\eswar\Downloads\ASP.NET-team-1-Final\ASP.NET-team-1 (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\eswar\Downloads\ASP.NET-team-1-Final\ASP.NET-team-1 (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\eswar\Downloads\ASP.NET-team-1-Final\ASP.NET-team-1 (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\eswar\Downloads\ASP.NET-team-1-Final\ASP.NET-team-1 (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\eswar\Downloads\ASP.NET-team-1-Final\ASP.NET-team-1 (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\eswar\Downloads\ASP.NET-team-1-Final\ASP.NET-team-1 (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\obj\Debug\netcoreapp3.1\ASP.NET Team 1.csprojAssemblyReference.cache
+C:\Users\eswar\Downloads\ASP.NET-team-1-Final\ASP.NET-team-1 (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\obj\Debug\netcoreapp3.1\ASP.NET Team 1.AssemblyInfoInputs.cache
+C:\Users\eswar\Downloads\ASP.NET-team-1-Final\ASP.NET-team-1 (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\obj\Debug\netcoreapp3.1\ASP.NET Team 1.AssemblyInfo.cs
+C:\Users\eswar\Downloads\ASP.NET-team-1-Final\ASP.NET-team-1 (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\obj\Debug\netcoreapp3.1\ASP.NET Team 1.RazorAssemblyInfo.cache
+C:\Users\eswar\Downloads\ASP.NET-team-1-Final\ASP.NET-team-1 (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\obj\Debug\netcoreapp3.1\ASP.NET Team 1.RazorAssemblyInfo.cs
+C:\Users\eswar\Downloads\ASP.NET-team-1-Final\ASP.NET-team-1 (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\obj\Debug\netcoreapp3.1\ASP.NET Team 1.TagHelpers.input.cache
+C:\Users\eswar\Downloads\ASP.NET-team-1-Final\ASP.NET-team-1 (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\obj\Debug\netcoreapp3.1\ASP.NET Team 1.TagHelpers.output.cache
+C:\Users\eswar\Downloads\ASP.NET-team-1-Final\ASP.NET-team-1 (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\obj\Debug\netcoreapp3.1\ASP.NET Team 1.RazorCoreGenerate.cache
+C:\Users\eswar\Downloads\ASP.NET-team-1-Final\ASP.NET-team-1 (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\obj\Debug\netcoreapp3.1\Razor\Views\Cart\index.cshtml.g.cs
+C:\Users\eswar\Downloads\ASP.NET-team-1-Final\ASP.NET-team-1 (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\obj\Debug\netcoreapp3.1\Razor\Views\checkout\Index.cshtml.g.cs
+C:\Users\eswar\Downloads\ASP.NET-team-1-Final\ASP.NET-team-1 (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\obj\Debug\netcoreapp3.1\Razor\Views\Gallery\Index.cshtml.g.cs
+C:\Users\eswar\Downloads\ASP.NET-team-1-Final\ASP.NET-team-1 (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\eswar\Downloads\ASP.NET-team-1-Final\ASP.NET-team-1 (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\eswar\Downloads\ASP.NET-team-1-Final\ASP.NET-team-1 (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\obj\Debug\netcoreapp3.1\Razor\Views\Login\Index.cshtml.g.cs
+C:\Users\eswar\Downloads\ASP.NET-team-1-Final\ASP.NET-team-1 (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\obj\Debug\netcoreapp3.1\Razor\Views\MyPurchases\Index.cshtml.g.cs
+C:\Users\eswar\Downloads\ASP.NET-team-1-Final\ASP.NET-team-1 (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\eswar\Downloads\ASP.NET-team-1-Final\ASP.NET-team-1 (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_CartPurchView.cshtml.g.cs
+C:\Users\eswar\Downloads\ASP.NET-team-1-Final\ASP.NET-team-1 (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\eswar\Downloads\ASP.NET-team-1-Final\ASP.NET-team-1 (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginHeader.cshtml.g.cs
+C:\Users\eswar\Downloads\ASP.NET-team-1-Final\ASP.NET-team-1 (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\eswar\Downloads\ASP.NET-team-1-Final\ASP.NET-team-1 (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\eswar\Downloads\ASP.NET-team-1-Final\ASP.NET-team-1 (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\eswar\Downloads\ASP.NET-team-1-Final\ASP.NET-team-1 (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\obj\Debug\netcoreapp3.1\ASP.NET Team 1.RazorTargetAssemblyInfo.cache
+C:\Users\eswar\Downloads\ASP.NET-team-1-Final\ASP.NET-team-1 (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\obj\Debug\netcoreapp3.1\ASP.NET Team 1.RazorTargetAssemblyInfo.cs
+C:\Users\eswar\Downloads\ASP.NET-team-1-Final\ASP.NET-team-1 (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\obj\Debug\netcoreapp3.1\ASP.NET Team 1.Views.pdb
+C:\Users\eswar\Downloads\ASP.NET-team-1-Final\ASP.NET-team-1 (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\obj\Debug\netcoreapp3.1\ASP.NET Team 1.csproj.CopyComplete
+C:\Users\eswar\Downloads\ASP.NET-team-1-Final\ASP.NET-team-1 (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\obj\Debug\netcoreapp3.1\staticwebassets\ASP.NET Team 1.StaticWebAssets.Manifest.cache
+C:\Users\eswar\Downloads\ASP.NET-team-1-Final\ASP.NET-team-1 (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\obj\Debug\netcoreapp3.1\staticwebassets\ASP.NET Team 1.StaticWebAssets.xml
+C:\Users\eswar\Downloads\ASP.NET-team-1-Final\ASP.NET-team-1 (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\obj\Debug\netcoreapp3.1\ASP.NET Team 1.dll
+C:\Users\eswar\Downloads\ASP.NET-team-1-Final\ASP.NET-team-1 (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\obj\Debug\netcoreapp3.1\ASP.NET Team 1.pdb
+C:\Users\eswar\Downloads\ASP.NET-team-1-Final\ASP.NET-team-1 (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\obj\Debug\netcoreapp3.1\ASP.NET Team 1.genruntimeconfig.cache
+C:\Users\eswar\Downloads\ASP.NET-team-1-Final\ASP.NET-team-1 (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\eswar\Downloads\ASP.NET-team-1-Final\ASP.NET-team-1 (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\eswar\Downloads\ASP.NET-team-1-Final\ASP.NET-team-1 (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\eswar\Downloads\ASP.NET-team-1-Final\ASP.NET-team-1 (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\eswar\Downloads\ASP.NET-team-1-Final\ASP.NET-team-1 (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\eswar\Downloads\ASP.NET-team-1-Final\ASP.NET-team-1 (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\eswar\Downloads\ASP.NET-team-1-Final\ASP.NET-team-1 (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\eswar\Downloads\ASP.NET-team-1-Final\ASP.NET-team-1 (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\eswar\Downloads\ASP.NET-team-1-Final\ASP.NET-team-1 (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\eswar\Downloads\ASP.NET-team-1-Final\ASP.NET-team-1 (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\eswar\Downloads\ASP.NET-team-1-Final\ASP.NET-team-1 (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\eswar\Downloads\ASP.NET-team-1-Final\ASP.NET-team-1 (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\eswar\Downloads\ASP.NET-team-1-Final\ASP.NET-team-1 (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\eswar\Downloads\ASP.NET-team-1-Final\ASP.NET-team-1 (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\eswar\Downloads\ASP.NET-team-1-Final\ASP.NET-team-1 (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\eswar\Downloads\ASP.NET-team-1-Final\ASP.NET-team-1 (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\eswar\Downloads\ASP.NET-team-1-Final\ASP.NET-team-1 (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\eswar\Downloads\ASP.NET-team-1-Final\ASP.NET-team-1 (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\eswar\Downloads\ASP.NET-team-1-Final\ASP.NET-team-1 (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\eswar\Downloads\ASP.NET-team-1-Final\ASP.NET-team-1 (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\eswar\Downloads\ASP.NET-team-1-Final\ASP.NET-team-1 (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\eswar\Downloads\ASP.NET-team-1-Final\ASP.NET-team-1 (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\eswar\Downloads\ASP.NET-team-1-Final\ASP.NET-team-1 (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\eswar\Downloads\ASP.NET-team-1-Final\ASP.NET-team-1 (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\eswar\Downloads\ASP.NET-team-1-Final\ASP.NET-team-1 (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\eswar\Downloads\ASP.NET-team-1-Final\ASP.NET-team-1 (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\eswar\Downloads\ASP.NET-team-1-Final\ASP.NET-team-1 (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\eswar\Downloads\ASP.NET-team-1-Final\ASP.NET-team-1 (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\eswar\Downloads\ASP.NET-team-1-Final\ASP.NET-team-1 (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\eswar\Downloads\ASP.NET-team-1-Final\ASP.NET-team-1 (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\eswar\Downloads\ASP.NET-team-1-Final\ASP.NET-team-1 (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\eswar\Downloads\ASP.NET-team-1-Final\ASP.NET-team-1 (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\eswar\Downloads\ASP.NET-team-1-Final\ASP.NET-team-1 (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\eswar\Downloads\ASP.NET-team-1-Final\ASP.NET-team-1 (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\eswar\Downloads\ASP.NET-team-1-Final\ASP.NET-team-1 (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\eswar\Downloads\ASP.NET-team-1-Final\ASP.NET-team-1 (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\eswar\Downloads\ASP.NET-team-1-Final\ASP.NET-team-1 (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\eswar\Downloads\ASP.NET-team-1-Final\ASP.NET-team-1 (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\eswar\Downloads\ASP.NET-team-1-Final\ASP.NET-team-1 (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\eswar\Downloads\ASP.NET-team-1-Final\ASP.NET-team-1 (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\eswar\Downloads\ASP.NET-team-1-Final\ASP.NET-team-1 (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\eswar\Downloads\ASP.NET-team-1-Final\ASP.NET-team-1 (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\eswar\Downloads\ASP.NET-team-1-Final\ASP.NET-team-1 (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\eswar\Downloads\ASP.NET-team-1-Final\ASP.NET-team-1 (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\eswar\Downloads\ASP.NET-team-1-Final\ASP.NET-team-1 (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\eswar\Downloads\ASP.NET-team-1-Final\ASP.NET-team-1 (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\eswar\Downloads\ASP.NET-team-1-Final\ASP.NET-team-1 (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\eswar\Downloads\ASP.NET-team-1-Final\ASP.NET-team-1 (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\eswar\Downloads\ASP.NET-team-1-Final\ASP.NET-team-1 (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\eswar\Downloads\ASP.NET-team-1-Final\ASP.NET-team-1 (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\eswar\Downloads\ASP.NET-team-1-Final\ASP.NET-team-1 (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\eswar\Downloads\ASP.NET-team-1-Final\ASP.NET-team-1 (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\eswar\Downloads\ASP.NET-team-1-Final\ASP.NET-team-1 (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\eswar\Downloads\ASP.NET-team-1-Final\ASP.NET-team-1 (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\eswar\Downloads\ASP.NET-team-1-Final\ASP.NET-team-1 (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\eswar\Downloads\ASP.NET-team-1-Final\ASP.NET-team-1 (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\eswar\Downloads\ASP.NET-team-1-Final\ASP.NET-team-1 (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\eswar\Downloads\ASP.NET-team-1-Final\ASP.NET-team-1 (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\eswar\Downloads\ASP.NET-team-1-Final\ASP.NET-team-1 (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\eswar\Downloads\ASP.NET-team-1-Final\ASP.NET-team-1 (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\eswar\Downloads\ASP.NET-team-1-Final\ASP.NET-team-1 (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\eswar\Downloads\ASP.NET-team-1-Final\ASP.NET-team-1 (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\eswar\Downloads\ASP.NET-team-1-Final\ASP.NET-team-1 (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\eswar\Downloads\ASP.NET-team-1-Final\ASP.NET-team-1 (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\eswar\Downloads\ASP.NET-team-1-Final\ASP.NET-team-1 (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\eswar\Downloads\ASP.NET-team-1-Final\ASP.NET-team-1 (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\eswar\Downloads\ASP.NET-team-1-Final\ASP.NET-team-1 (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\eswar\Downloads\ASP.NET-team-1-Final\ASP.NET-team-1 (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\eswar\Downloads\ASP.NET-team-1-Final\ASP.NET-team-1 (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\eswar\Downloads\ASP.NET-team-1-Final\ASP.NET-team-1 (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\eswar\Downloads\ASP.NET-team-1-Final\ASP.NET-team-1 (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\eswar\Downloads\ASP.NET-team-1-Final\ASP.NET-team-1 (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\eswar\Downloads\ASP.NET-team-1-Final\ASP.NET-team-1 (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\eswar\Downloads\ASP.NET-team-1-Final\ASP.NET-team-1 (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\obj\Debug\netcoreapp3.1\ASP.NET Team 1.csproj.CoreCompileInputs.cache
+C:\Users\eswar\Downloads\ASP.NET-team-1-Final\ASP.NET-team-1 (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\obj\Debug\netcoreapp3.1\ASP.NET Team 1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\LM\Desktop\ASP.NET-team-1-Final\ASP.NET-team-1-Final\ASP.NET-team-1 (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\LM\Desktop\ASP.NET-team-1-Final\ASP.NET-team-1-Final\ASP.NET-team-1 (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\LM\Desktop\ASP.NET-team-1-Final\ASP.NET-team-1-Final\ASP.NET-team-1 (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\LM\Desktop\ASP.NET-team-1-Final\ASP.NET-team-1-Final\ASP.NET-team-1 (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\ASP.NET Team 1.exe
+C:\Users\LM\Desktop\ASP.NET-team-1-Final\ASP.NET-team-1-Final\ASP.NET-team-1 (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\ASP.NET Team 1.deps.json
+C:\Users\LM\Desktop\ASP.NET-team-1-Final\ASP.NET-team-1-Final\ASP.NET-team-1 (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\ASP.NET Team 1.runtimeconfig.json
+C:\Users\LM\Desktop\ASP.NET-team-1-Final\ASP.NET-team-1-Final\ASP.NET-team-1 (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\ASP.NET Team 1.runtimeconfig.dev.json
+C:\Users\LM\Desktop\ASP.NET-team-1-Final\ASP.NET-team-1-Final\ASP.NET-team-1 (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\ASP.NET Team 1.dll
+C:\Users\LM\Desktop\ASP.NET-team-1-Final\ASP.NET-team-1-Final\ASP.NET-team-1 (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\ASP.NET Team 1.pdb
+C:\Users\LM\Desktop\ASP.NET-team-1-Final\ASP.NET-team-1-Final\ASP.NET-team-1 (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\ASP.NET Team 1.Views.dll
+C:\Users\LM\Desktop\ASP.NET-team-1-Final\ASP.NET-team-1-Final\ASP.NET-team-1 (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\ASP.NET Team 1.Views.pdb
+C:\Users\LM\Desktop\ASP.NET-team-1-Final\ASP.NET-team-1-Final\ASP.NET-team-1 (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\LM\Desktop\ASP.NET-team-1-Final\ASP.NET-team-1-Final\ASP.NET-team-1 (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\LM\Desktop\ASP.NET-team-1-Final\ASP.NET-team-1-Final\ASP.NET-team-1 (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\LM\Desktop\ASP.NET-team-1-Final\ASP.NET-team-1-Final\ASP.NET-team-1 (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\LM\Desktop\ASP.NET-team-1-Final\ASP.NET-team-1-Final\ASP.NET-team-1 (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\LM\Desktop\ASP.NET-team-1-Final\ASP.NET-team-1-Final\ASP.NET-team-1 (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\LM\Desktop\ASP.NET-team-1-Final\ASP.NET-team-1-Final\ASP.NET-team-1 (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\LM\Desktop\ASP.NET-team-1-Final\ASP.NET-team-1-Final\ASP.NET-team-1 (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\LM\Desktop\ASP.NET-team-1-Final\ASP.NET-team-1-Final\ASP.NET-team-1 (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\LM\Desktop\ASP.NET-team-1-Final\ASP.NET-team-1-Final\ASP.NET-team-1 (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\LM\Desktop\ASP.NET-team-1-Final\ASP.NET-team-1-Final\ASP.NET-team-1 (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\LM\Desktop\ASP.NET-team-1-Final\ASP.NET-team-1-Final\ASP.NET-team-1 (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\LM\Desktop\ASP.NET-team-1-Final\ASP.NET-team-1-Final\ASP.NET-team-1 (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\LM\Desktop\ASP.NET-team-1-Final\ASP.NET-team-1-Final\ASP.NET-team-1 (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\LM\Desktop\ASP.NET-team-1-Final\ASP.NET-team-1-Final\ASP.NET-team-1 (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\LM\Desktop\ASP.NET-team-1-Final\ASP.NET-team-1-Final\ASP.NET-team-1 (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\LM\Desktop\ASP.NET-team-1-Final\ASP.NET-team-1-Final\ASP.NET-team-1 (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\LM\Desktop\ASP.NET-team-1-Final\ASP.NET-team-1-Final\ASP.NET-team-1 (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\LM\Desktop\ASP.NET-team-1-Final\ASP.NET-team-1-Final\ASP.NET-team-1 (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\LM\Desktop\ASP.NET-team-1-Final\ASP.NET-team-1-Final\ASP.NET-team-1 (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\LM\Desktop\ASP.NET-team-1-Final\ASP.NET-team-1-Final\ASP.NET-team-1 (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\LM\Desktop\ASP.NET-team-1-Final\ASP.NET-team-1-Final\ASP.NET-team-1 (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\LM\Desktop\ASP.NET-team-1-Final\ASP.NET-team-1-Final\ASP.NET-team-1 (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\LM\Desktop\ASP.NET-team-1-Final\ASP.NET-team-1-Final\ASP.NET-team-1 (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\LM\Desktop\ASP.NET-team-1-Final\ASP.NET-team-1-Final\ASP.NET-team-1 (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\LM\Desktop\ASP.NET-team-1-Final\ASP.NET-team-1-Final\ASP.NET-team-1 (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\LM\Desktop\ASP.NET-team-1-Final\ASP.NET-team-1-Final\ASP.NET-team-1 (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\LM\Desktop\ASP.NET-team-1-Final\ASP.NET-team-1-Final\ASP.NET-team-1 (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\LM\Desktop\ASP.NET-team-1-Final\ASP.NET-team-1-Final\ASP.NET-team-1 (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\LM\Desktop\ASP.NET-team-1-Final\ASP.NET-team-1-Final\ASP.NET-team-1 (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\LM\Desktop\ASP.NET-team-1-Final\ASP.NET-team-1-Final\ASP.NET-team-1 (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\LM\Desktop\ASP.NET-team-1-Final\ASP.NET-team-1-Final\ASP.NET-team-1 (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\LM\Desktop\ASP.NET-team-1-Final\ASP.NET-team-1-Final\ASP.NET-team-1 (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\LM\Desktop\ASP.NET-team-1-Final\ASP.NET-team-1-Final\ASP.NET-team-1 (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\LM\Desktop\ASP.NET-team-1-Final\ASP.NET-team-1-Final\ASP.NET-team-1 (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\LM\Desktop\ASP.NET-team-1-Final\ASP.NET-team-1-Final\ASP.NET-team-1 (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\LM\Desktop\ASP.NET-team-1-Final\ASP.NET-team-1-Final\ASP.NET-team-1 (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\LM\Desktop\ASP.NET-team-1-Final\ASP.NET-team-1-Final\ASP.NET-team-1 (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\LM\Desktop\ASP.NET-team-1-Final\ASP.NET-team-1-Final\ASP.NET-team-1 (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\LM\Desktop\ASP.NET-team-1-Final\ASP.NET-team-1-Final\ASP.NET-team-1 (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\LM\Desktop\ASP.NET-team-1-Final\ASP.NET-team-1-Final\ASP.NET-team-1 (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\LM\Desktop\ASP.NET-team-1-Final\ASP.NET-team-1-Final\ASP.NET-team-1 (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\LM\Desktop\ASP.NET-team-1-Final\ASP.NET-team-1-Final\ASP.NET-team-1 (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\LM\Desktop\ASP.NET-team-1-Final\ASP.NET-team-1-Final\ASP.NET-team-1 (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\LM\Desktop\ASP.NET-team-1-Final\ASP.NET-team-1-Final\ASP.NET-team-1 (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\LM\Desktop\ASP.NET-team-1-Final\ASP.NET-team-1-Final\ASP.NET-team-1 (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\LM\Desktop\ASP.NET-team-1-Final\ASP.NET-team-1-Final\ASP.NET-team-1 (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\LM\Desktop\ASP.NET-team-1-Final\ASP.NET-team-1-Final\ASP.NET-team-1 (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\LM\Desktop\ASP.NET-team-1-Final\ASP.NET-team-1-Final\ASP.NET-team-1 (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\LM\Desktop\ASP.NET-team-1-Final\ASP.NET-team-1-Final\ASP.NET-team-1 (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\LM\Desktop\ASP.NET-team-1-Final\ASP.NET-team-1-Final\ASP.NET-team-1 (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\LM\Desktop\ASP.NET-team-1-Final\ASP.NET-team-1-Final\ASP.NET-team-1 (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\LM\Desktop\ASP.NET-team-1-Final\ASP.NET-team-1-Final\ASP.NET-team-1 (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\LM\Desktop\ASP.NET-team-1-Final\ASP.NET-team-1-Final\ASP.NET-team-1 (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\LM\Desktop\ASP.NET-team-1-Final\ASP.NET-team-1-Final\ASP.NET-team-1 (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\LM\Desktop\ASP.NET-team-1-Final\ASP.NET-team-1-Final\ASP.NET-team-1 (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\LM\Desktop\ASP.NET-team-1-Final\ASP.NET-team-1-Final\ASP.NET-team-1 (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\LM\Desktop\ASP.NET-team-1-Final\ASP.NET-team-1-Final\ASP.NET-team-1 (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\LM\Desktop\ASP.NET-team-1-Final\ASP.NET-team-1-Final\ASP.NET-team-1 (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\LM\Desktop\ASP.NET-team-1-Final\ASP.NET-team-1-Final\ASP.NET-team-1 (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\LM\Desktop\ASP.NET-team-1-Final\ASP.NET-team-1-Final\ASP.NET-team-1 (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\LM\Desktop\ASP.NET-team-1-Final\ASP.NET-team-1-Final\ASP.NET-team-1 (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\LM\Desktop\ASP.NET-team-1-Final\ASP.NET-team-1-Final\ASP.NET-team-1 (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\LM\Desktop\ASP.NET-team-1-Final\ASP.NET-team-1-Final\ASP.NET-team-1 (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\LM\Desktop\ASP.NET-team-1-Final\ASP.NET-team-1-Final\ASP.NET-team-1 (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\LM\Desktop\ASP.NET-team-1-Final\ASP.NET-team-1-Final\ASP.NET-team-1 (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\LM\Desktop\ASP.NET-team-1-Final\ASP.NET-team-1-Final\ASP.NET-team-1 (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\LM\Desktop\ASP.NET-team-1-Final\ASP.NET-team-1-Final\ASP.NET-team-1 (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\LM\Desktop\ASP.NET-team-1-Final\ASP.NET-team-1-Final\ASP.NET-team-1 (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\LM\Desktop\ASP.NET-team-1-Final\ASP.NET-team-1-Final\ASP.NET-team-1 (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\LM\Desktop\ASP.NET-team-1-Final\ASP.NET-team-1-Final\ASP.NET-team-1 (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\LM\Desktop\ASP.NET-team-1-Final\ASP.NET-team-1-Final\ASP.NET-team-1 (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\LM\Desktop\ASP.NET-team-1-Final\ASP.NET-team-1-Final\ASP.NET-team-1 (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\LM\Desktop\ASP.NET-team-1-Final\ASP.NET-team-1-Final\ASP.NET-team-1 (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\LM\Desktop\ASP.NET-team-1-Final\ASP.NET-team-1-Final\ASP.NET-team-1 (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\LM\Desktop\ASP.NET-team-1-Final\ASP.NET-team-1-Final\ASP.NET-team-1 (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\LM\Desktop\ASP.NET-team-1-Final\ASP.NET-team-1-Final\ASP.NET-team-1 (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\LM\Desktop\ASP.NET-team-1-Final\ASP.NET-team-1-Final\ASP.NET-team-1 (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\LM\Desktop\ASP.NET-team-1-Final\ASP.NET-team-1-Final\ASP.NET-team-1 (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\LM\Desktop\ASP.NET-team-1-Final\ASP.NET-team-1-Final\ASP.NET-team-1 (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\obj\Debug\netcoreapp3.1\ASP.NET Team 1.csprojAssemblyReference.cache
+C:\Users\LM\Desktop\ASP.NET-team-1-Final\ASP.NET-team-1-Final\ASP.NET-team-1 (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\obj\Debug\netcoreapp3.1\ASP.NET Team 1.AssemblyInfoInputs.cache
+C:\Users\LM\Desktop\ASP.NET-team-1-Final\ASP.NET-team-1-Final\ASP.NET-team-1 (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\obj\Debug\netcoreapp3.1\ASP.NET Team 1.AssemblyInfo.cs
+C:\Users\LM\Desktop\ASP.NET-team-1-Final\ASP.NET-team-1-Final\ASP.NET-team-1 (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\obj\Debug\netcoreapp3.1\ASP.NET Team 1.csproj.CoreCompileInputs.cache
+C:\Users\LM\Desktop\ASP.NET-team-1-Final\ASP.NET-team-1-Final\ASP.NET-team-1 (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\obj\Debug\netcoreapp3.1\ASP.NET Team 1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\LM\Desktop\ASP.NET-team-1-Final\ASP.NET-team-1-Final\ASP.NET-team-1 (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\obj\Debug\netcoreapp3.1\ASP.NET Team 1.RazorAssemblyInfo.cache
+C:\Users\LM\Desktop\ASP.NET-team-1-Final\ASP.NET-team-1-Final\ASP.NET-team-1 (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\obj\Debug\netcoreapp3.1\ASP.NET Team 1.RazorAssemblyInfo.cs
+C:\Users\LM\Desktop\ASP.NET-team-1-Final\ASP.NET-team-1-Final\ASP.NET-team-1 (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\obj\Debug\netcoreapp3.1\ASP.NET Team 1.TagHelpers.input.cache
+C:\Users\LM\Desktop\ASP.NET-team-1-Final\ASP.NET-team-1-Final\ASP.NET-team-1 (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\obj\Debug\netcoreapp3.1\ASP.NET Team 1.TagHelpers.output.cache
+C:\Users\LM\Desktop\ASP.NET-team-1-Final\ASP.NET-team-1-Final\ASP.NET-team-1 (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\obj\Debug\netcoreapp3.1\ASP.NET Team 1.RazorCoreGenerate.cache
+C:\Users\LM\Desktop\ASP.NET-team-1-Final\ASP.NET-team-1-Final\ASP.NET-team-1 (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\obj\Debug\netcoreapp3.1\Razor\Views\Cart\index.cshtml.g.cs
+C:\Users\LM\Desktop\ASP.NET-team-1-Final\ASP.NET-team-1-Final\ASP.NET-team-1 (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\obj\Debug\netcoreapp3.1\Razor\Views\checkout\Index.cshtml.g.cs
+C:\Users\LM\Desktop\ASP.NET-team-1-Final\ASP.NET-team-1-Final\ASP.NET-team-1 (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\obj\Debug\netcoreapp3.1\Razor\Views\Gallery\Index.cshtml.g.cs
+C:\Users\LM\Desktop\ASP.NET-team-1-Final\ASP.NET-team-1-Final\ASP.NET-team-1 (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\LM\Desktop\ASP.NET-team-1-Final\ASP.NET-team-1-Final\ASP.NET-team-1 (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\LM\Desktop\ASP.NET-team-1-Final\ASP.NET-team-1-Final\ASP.NET-team-1 (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\obj\Debug\netcoreapp3.1\Razor\Views\Login\Index.cshtml.g.cs
+C:\Users\LM\Desktop\ASP.NET-team-1-Final\ASP.NET-team-1-Final\ASP.NET-team-1 (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\obj\Debug\netcoreapp3.1\Razor\Views\MyPurchases\Index.cshtml.g.cs
+C:\Users\LM\Desktop\ASP.NET-team-1-Final\ASP.NET-team-1-Final\ASP.NET-team-1 (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\LM\Desktop\ASP.NET-team-1-Final\ASP.NET-team-1-Final\ASP.NET-team-1 (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_CartPurchView.cshtml.g.cs
+C:\Users\LM\Desktop\ASP.NET-team-1-Final\ASP.NET-team-1-Final\ASP.NET-team-1 (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\LM\Desktop\ASP.NET-team-1-Final\ASP.NET-team-1-Final\ASP.NET-team-1 (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginHeader.cshtml.g.cs
+C:\Users\LM\Desktop\ASP.NET-team-1-Final\ASP.NET-team-1-Final\ASP.NET-team-1 (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\LM\Desktop\ASP.NET-team-1-Final\ASP.NET-team-1-Final\ASP.NET-team-1 (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\LM\Desktop\ASP.NET-team-1-Final\ASP.NET-team-1-Final\ASP.NET-team-1 (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\LM\Desktop\ASP.NET-team-1-Final\ASP.NET-team-1-Final\ASP.NET-team-1 (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\obj\Debug\netcoreapp3.1\ASP.NET Team 1.RazorTargetAssemblyInfo.cache
+C:\Users\LM\Desktop\ASP.NET-team-1-Final\ASP.NET-team-1-Final\ASP.NET-team-1 (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\obj\Debug\netcoreapp3.1\ASP.NET Team 1.RazorTargetAssemblyInfo.cs
+C:\Users\LM\Desktop\ASP.NET-team-1-Final\ASP.NET-team-1-Final\ASP.NET-team-1 (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\obj\Debug\netcoreapp3.1\ASP.NET Team 1.Views.pdb
+C:\Users\LM\Desktop\ASP.NET-team-1-Final\ASP.NET-team-1-Final\ASP.NET-team-1 (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\obj\Debug\netcoreapp3.1\ASP.NET Team 1.csproj.CopyComplete
+C:\Users\LM\Desktop\ASP.NET-team-1-Final\ASP.NET-team-1-Final\ASP.NET-team-1 (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\obj\Debug\netcoreapp3.1\staticwebassets\ASP.NET Team 1.StaticWebAssets.Manifest.cache
+C:\Users\LM\Desktop\ASP.NET-team-1-Final\ASP.NET-team-1-Final\ASP.NET-team-1 (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\obj\Debug\netcoreapp3.1\staticwebassets\ASP.NET Team 1.StaticWebAssets.xml
+C:\Users\LM\Desktop\ASP.NET-team-1-Final\ASP.NET-team-1-Final\ASP.NET-team-1 (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\obj\Debug\netcoreapp3.1\ASP.NET Team 1.dll
+C:\Users\LM\Desktop\ASP.NET-team-1-Final\ASP.NET-team-1-Final\ASP.NET-team-1 (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\obj\Debug\netcoreapp3.1\ASP.NET Team 1.pdb
+C:\Users\LM\Desktop\ASP.NET-team-1-Final\ASP.NET-team-1-Final\ASP.NET-team-1 (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\obj\Debug\netcoreapp3.1\ASP.NET Team 1.genruntimeconfig.cache
+C:\Users\LM\Desktop\ASP.NET-team-1-Final\ASP.NET-team-1-Final\ASP.NET-team-1 (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\obj\Debug\netcoreapp3.1\Razor\Views\Gallery\Search.cshtml.g.cs
+C:\Users\eswar\OneDrive\Documents\CA FInal\ASP.NET-team-1-final (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\eswar\OneDrive\Documents\CA FInal\ASP.NET-team-1-final (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\eswar\OneDrive\Documents\CA FInal\ASP.NET-team-1-final (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\eswar\OneDrive\Documents\CA FInal\ASP.NET-team-1-final (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\ASP.NET Team 1.exe
+C:\Users\eswar\OneDrive\Documents\CA FInal\ASP.NET-team-1-final (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\ASP.NET Team 1.deps.json
+C:\Users\eswar\OneDrive\Documents\CA FInal\ASP.NET-team-1-final (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\ASP.NET Team 1.runtimeconfig.json
+C:\Users\eswar\OneDrive\Documents\CA FInal\ASP.NET-team-1-final (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\ASP.NET Team 1.runtimeconfig.dev.json
+C:\Users\eswar\OneDrive\Documents\CA FInal\ASP.NET-team-1-final (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\ASP.NET Team 1.dll
+C:\Users\eswar\OneDrive\Documents\CA FInal\ASP.NET-team-1-final (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\ASP.NET Team 1.pdb
+C:\Users\eswar\OneDrive\Documents\CA FInal\ASP.NET-team-1-final (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\ASP.NET Team 1.Views.dll
+C:\Users\eswar\OneDrive\Documents\CA FInal\ASP.NET-team-1-final (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\ASP.NET Team 1.Views.pdb
+C:\Users\eswar\OneDrive\Documents\CA FInal\ASP.NET-team-1-final (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\eswar\OneDrive\Documents\CA FInal\ASP.NET-team-1-final (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\eswar\OneDrive\Documents\CA FInal\ASP.NET-team-1-final (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\eswar\OneDrive\Documents\CA FInal\ASP.NET-team-1-final (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\eswar\OneDrive\Documents\CA FInal\ASP.NET-team-1-final (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\eswar\OneDrive\Documents\CA FInal\ASP.NET-team-1-final (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\eswar\OneDrive\Documents\CA FInal\ASP.NET-team-1-final (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\eswar\OneDrive\Documents\CA FInal\ASP.NET-team-1-final (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\eswar\OneDrive\Documents\CA FInal\ASP.NET-team-1-final (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\eswar\OneDrive\Documents\CA FInal\ASP.NET-team-1-final (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\eswar\OneDrive\Documents\CA FInal\ASP.NET-team-1-final (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\eswar\OneDrive\Documents\CA FInal\ASP.NET-team-1-final (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\eswar\OneDrive\Documents\CA FInal\ASP.NET-team-1-final (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\eswar\OneDrive\Documents\CA FInal\ASP.NET-team-1-final (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\eswar\OneDrive\Documents\CA FInal\ASP.NET-team-1-final (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\eswar\OneDrive\Documents\CA FInal\ASP.NET-team-1-final (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\eswar\OneDrive\Documents\CA FInal\ASP.NET-team-1-final (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\eswar\OneDrive\Documents\CA FInal\ASP.NET-team-1-final (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\eswar\OneDrive\Documents\CA FInal\ASP.NET-team-1-final (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\eswar\OneDrive\Documents\CA FInal\ASP.NET-team-1-final (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\eswar\OneDrive\Documents\CA FInal\ASP.NET-team-1-final (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\eswar\OneDrive\Documents\CA FInal\ASP.NET-team-1-final (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\eswar\OneDrive\Documents\CA FInal\ASP.NET-team-1-final (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\eswar\OneDrive\Documents\CA FInal\ASP.NET-team-1-final (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\eswar\OneDrive\Documents\CA FInal\ASP.NET-team-1-final (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\eswar\OneDrive\Documents\CA FInal\ASP.NET-team-1-final (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\eswar\OneDrive\Documents\CA FInal\ASP.NET-team-1-final (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\eswar\OneDrive\Documents\CA FInal\ASP.NET-team-1-final (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\eswar\OneDrive\Documents\CA FInal\ASP.NET-team-1-final (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\eswar\OneDrive\Documents\CA FInal\ASP.NET-team-1-final (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\eswar\OneDrive\Documents\CA FInal\ASP.NET-team-1-final (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\eswar\OneDrive\Documents\CA FInal\ASP.NET-team-1-final (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\eswar\OneDrive\Documents\CA FInal\ASP.NET-team-1-final (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\eswar\OneDrive\Documents\CA FInal\ASP.NET-team-1-final (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\eswar\OneDrive\Documents\CA FInal\ASP.NET-team-1-final (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\eswar\OneDrive\Documents\CA FInal\ASP.NET-team-1-final (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\eswar\OneDrive\Documents\CA FInal\ASP.NET-team-1-final (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\eswar\OneDrive\Documents\CA FInal\ASP.NET-team-1-final (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\eswar\OneDrive\Documents\CA FInal\ASP.NET-team-1-final (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\eswar\OneDrive\Documents\CA FInal\ASP.NET-team-1-final (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\eswar\OneDrive\Documents\CA FInal\ASP.NET-team-1-final (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\eswar\OneDrive\Documents\CA FInal\ASP.NET-team-1-final (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\eswar\OneDrive\Documents\CA FInal\ASP.NET-team-1-final (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\eswar\OneDrive\Documents\CA FInal\ASP.NET-team-1-final (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\eswar\OneDrive\Documents\CA FInal\ASP.NET-team-1-final (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\eswar\OneDrive\Documents\CA FInal\ASP.NET-team-1-final (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\eswar\OneDrive\Documents\CA FInal\ASP.NET-team-1-final (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\eswar\OneDrive\Documents\CA FInal\ASP.NET-team-1-final (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\eswar\OneDrive\Documents\CA FInal\ASP.NET-team-1-final (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\eswar\OneDrive\Documents\CA FInal\ASP.NET-team-1-final (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\eswar\OneDrive\Documents\CA FInal\ASP.NET-team-1-final (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\eswar\OneDrive\Documents\CA FInal\ASP.NET-team-1-final (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\eswar\OneDrive\Documents\CA FInal\ASP.NET-team-1-final (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\eswar\OneDrive\Documents\CA FInal\ASP.NET-team-1-final (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\eswar\OneDrive\Documents\CA FInal\ASP.NET-team-1-final (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\eswar\OneDrive\Documents\CA FInal\ASP.NET-team-1-final (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\eswar\OneDrive\Documents\CA FInal\ASP.NET-team-1-final (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\eswar\OneDrive\Documents\CA FInal\ASP.NET-team-1-final (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\eswar\OneDrive\Documents\CA FInal\ASP.NET-team-1-final (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\eswar\OneDrive\Documents\CA FInal\ASP.NET-team-1-final (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\eswar\OneDrive\Documents\CA FInal\ASP.NET-team-1-final (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\eswar\OneDrive\Documents\CA FInal\ASP.NET-team-1-final (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\eswar\OneDrive\Documents\CA FInal\ASP.NET-team-1-final (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\eswar\OneDrive\Documents\CA FInal\ASP.NET-team-1-final (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\eswar\OneDrive\Documents\CA FInal\ASP.NET-team-1-final (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\eswar\OneDrive\Documents\CA FInal\ASP.NET-team-1-final (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\eswar\OneDrive\Documents\CA FInal\ASP.NET-team-1-final (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\eswar\OneDrive\Documents\CA FInal\ASP.NET-team-1-final (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\eswar\OneDrive\Documents\CA FInal\ASP.NET-team-1-final (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\eswar\OneDrive\Documents\CA FInal\ASP.NET-team-1-final (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\eswar\OneDrive\Documents\CA FInal\ASP.NET-team-1-final (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\eswar\OneDrive\Documents\CA FInal\ASP.NET-team-1-final (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\eswar\OneDrive\Documents\CA FInal\ASP.NET-team-1-final (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\eswar\OneDrive\Documents\CA FInal\ASP.NET-team-1-final (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\eswar\OneDrive\Documents\CA FInal\ASP.NET-team-1-final (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\eswar\OneDrive\Documents\CA FInal\ASP.NET-team-1-final (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\eswar\OneDrive\Documents\CA FInal\ASP.NET-team-1-final (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\eswar\OneDrive\Documents\CA FInal\ASP.NET-team-1-final (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\eswar\OneDrive\Documents\CA FInal\ASP.NET-team-1-final (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\eswar\OneDrive\Documents\CA FInal\ASP.NET-team-1-final (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\obj\Debug\netcoreapp3.1\ASP.NET Team 1.csprojAssemblyReference.cache
+C:\Users\eswar\OneDrive\Documents\CA FInal\ASP.NET-team-1-final (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\obj\Debug\netcoreapp3.1\ASP.NET Team 1.AssemblyInfoInputs.cache
+C:\Users\eswar\OneDrive\Documents\CA FInal\ASP.NET-team-1-final (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\obj\Debug\netcoreapp3.1\ASP.NET Team 1.AssemblyInfo.cs
+C:\Users\eswar\OneDrive\Documents\CA FInal\ASP.NET-team-1-final (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\obj\Debug\netcoreapp3.1\ASP.NET Team 1.csproj.CoreCompileInputs.cache
+C:\Users\eswar\OneDrive\Documents\CA FInal\ASP.NET-team-1-final (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\obj\Debug\netcoreapp3.1\ASP.NET Team 1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\eswar\OneDrive\Documents\CA FInal\ASP.NET-team-1-final (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\obj\Debug\netcoreapp3.1\ASP.NET Team 1.RazorAssemblyInfo.cache
+C:\Users\eswar\OneDrive\Documents\CA FInal\ASP.NET-team-1-final (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\obj\Debug\netcoreapp3.1\ASP.NET Team 1.RazorAssemblyInfo.cs
+C:\Users\eswar\OneDrive\Documents\CA FInal\ASP.NET-team-1-final (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\obj\Debug\netcoreapp3.1\ASP.NET Team 1.TagHelpers.input.cache
+C:\Users\eswar\OneDrive\Documents\CA FInal\ASP.NET-team-1-final (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\obj\Debug\netcoreapp3.1\ASP.NET Team 1.TagHelpers.output.cache
+C:\Users\eswar\OneDrive\Documents\CA FInal\ASP.NET-team-1-final (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\obj\Debug\netcoreapp3.1\ASP.NET Team 1.RazorCoreGenerate.cache
+C:\Users\eswar\OneDrive\Documents\CA FInal\ASP.NET-team-1-final (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\obj\Debug\netcoreapp3.1\Razor\Views\Cart\index.cshtml.g.cs
+C:\Users\eswar\OneDrive\Documents\CA FInal\ASP.NET-team-1-final (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\obj\Debug\netcoreapp3.1\Razor\Views\checkout\Index.cshtml.g.cs
+C:\Users\eswar\OneDrive\Documents\CA FInal\ASP.NET-team-1-final (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\obj\Debug\netcoreapp3.1\Razor\Views\Gallery\Index.cshtml.g.cs
+C:\Users\eswar\OneDrive\Documents\CA FInal\ASP.NET-team-1-final (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\obj\Debug\netcoreapp3.1\Razor\Views\Gallery\Search.cshtml.g.cs
+C:\Users\eswar\OneDrive\Documents\CA FInal\ASP.NET-team-1-final (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\obj\Debug\netcoreapp3.1\Razor\Views\Login\Index.cshtml.g.cs
+C:\Users\eswar\OneDrive\Documents\CA FInal\ASP.NET-team-1-final (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\obj\Debug\netcoreapp3.1\Razor\Views\MyPurchases\Index.cshtml.g.cs
+C:\Users\eswar\OneDrive\Documents\CA FInal\ASP.NET-team-1-final (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\eswar\OneDrive\Documents\CA FInal\ASP.NET-team-1-final (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_CartPurchView.cshtml.g.cs
+C:\Users\eswar\OneDrive\Documents\CA FInal\ASP.NET-team-1-final (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\eswar\OneDrive\Documents\CA FInal\ASP.NET-team-1-final (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginHeader.cshtml.g.cs
+C:\Users\eswar\OneDrive\Documents\CA FInal\ASP.NET-team-1-final (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\eswar\OneDrive\Documents\CA FInal\ASP.NET-team-1-final (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\eswar\OneDrive\Documents\CA FInal\ASP.NET-team-1-final (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\eswar\OneDrive\Documents\CA FInal\ASP.NET-team-1-final (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\obj\Debug\netcoreapp3.1\ASP.NET Team 1.RazorTargetAssemblyInfo.cache
+C:\Users\eswar\OneDrive\Documents\CA FInal\ASP.NET-team-1-final (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\obj\Debug\netcoreapp3.1\ASP.NET Team 1.RazorTargetAssemblyInfo.cs
+C:\Users\eswar\OneDrive\Documents\CA FInal\ASP.NET-team-1-final (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\obj\Debug\netcoreapp3.1\ASP.NET Team 1.Views.pdb
+C:\Users\eswar\OneDrive\Documents\CA FInal\ASP.NET-team-1-final (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\obj\Debug\netcoreapp3.1\ASP.NET Team 1.csproj.CopyComplete
+C:\Users\eswar\OneDrive\Documents\CA FInal\ASP.NET-team-1-final (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\obj\Debug\netcoreapp3.1\staticwebassets\ASP.NET Team 1.StaticWebAssets.Manifest.cache
+C:\Users\eswar\OneDrive\Documents\CA FInal\ASP.NET-team-1-final (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\obj\Debug\netcoreapp3.1\staticwebassets\ASP.NET Team 1.StaticWebAssets.xml
+C:\Users\eswar\OneDrive\Documents\CA FInal\ASP.NET-team-1-final (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\obj\Debug\netcoreapp3.1\ASP.NET Team 1.dll
+C:\Users\eswar\OneDrive\Documents\CA FInal\ASP.NET-team-1-final (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\obj\Debug\netcoreapp3.1\ASP.NET Team 1.pdb
+C:\Users\eswar\OneDrive\Documents\CA FInal\ASP.NET-team-1-final (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\obj\Debug\netcoreapp3.1\ASP.NET Team 1.genruntimeconfig.cache
+C:\Users\LM\Desktop\ASP.NET-team-1-final (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\LM\Desktop\ASP.NET-team-1-final (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\LM\Desktop\ASP.NET-team-1-final (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\LM\Desktop\ASP.NET-team-1-final (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\ASP.NET Team 1.exe
+C:\Users\LM\Desktop\ASP.NET-team-1-final (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\ASP.NET Team 1.deps.json
+C:\Users\LM\Desktop\ASP.NET-team-1-final (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\ASP.NET Team 1.runtimeconfig.json
+C:\Users\LM\Desktop\ASP.NET-team-1-final (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\ASP.NET Team 1.runtimeconfig.dev.json
+C:\Users\LM\Desktop\ASP.NET-team-1-final (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\ASP.NET Team 1.dll
+C:\Users\LM\Desktop\ASP.NET-team-1-final (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\ASP.NET Team 1.pdb
+C:\Users\LM\Desktop\ASP.NET-team-1-final (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\ASP.NET Team 1.Views.dll
+C:\Users\LM\Desktop\ASP.NET-team-1-final (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\ASP.NET Team 1.Views.pdb
+C:\Users\LM\Desktop\ASP.NET-team-1-final (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\LM\Desktop\ASP.NET-team-1-final (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\LM\Desktop\ASP.NET-team-1-final (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\LM\Desktop\ASP.NET-team-1-final (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\LM\Desktop\ASP.NET-team-1-final (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\LM\Desktop\ASP.NET-team-1-final (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\LM\Desktop\ASP.NET-team-1-final (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\LM\Desktop\ASP.NET-team-1-final (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\LM\Desktop\ASP.NET-team-1-final (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\LM\Desktop\ASP.NET-team-1-final (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\LM\Desktop\ASP.NET-team-1-final (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\LM\Desktop\ASP.NET-team-1-final (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\LM\Desktop\ASP.NET-team-1-final (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\LM\Desktop\ASP.NET-team-1-final (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\LM\Desktop\ASP.NET-team-1-final (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\LM\Desktop\ASP.NET-team-1-final (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\LM\Desktop\ASP.NET-team-1-final (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\LM\Desktop\ASP.NET-team-1-final (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\LM\Desktop\ASP.NET-team-1-final (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\LM\Desktop\ASP.NET-team-1-final (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\LM\Desktop\ASP.NET-team-1-final (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\LM\Desktop\ASP.NET-team-1-final (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\LM\Desktop\ASP.NET-team-1-final (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\LM\Desktop\ASP.NET-team-1-final (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\LM\Desktop\ASP.NET-team-1-final (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\LM\Desktop\ASP.NET-team-1-final (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\LM\Desktop\ASP.NET-team-1-final (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\LM\Desktop\ASP.NET-team-1-final (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\LM\Desktop\ASP.NET-team-1-final (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\LM\Desktop\ASP.NET-team-1-final (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\LM\Desktop\ASP.NET-team-1-final (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\LM\Desktop\ASP.NET-team-1-final (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\LM\Desktop\ASP.NET-team-1-final (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\LM\Desktop\ASP.NET-team-1-final (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\LM\Desktop\ASP.NET-team-1-final (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\LM\Desktop\ASP.NET-team-1-final (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\LM\Desktop\ASP.NET-team-1-final (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\LM\Desktop\ASP.NET-team-1-final (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\LM\Desktop\ASP.NET-team-1-final (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\LM\Desktop\ASP.NET-team-1-final (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\LM\Desktop\ASP.NET-team-1-final (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\LM\Desktop\ASP.NET-team-1-final (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\LM\Desktop\ASP.NET-team-1-final (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\LM\Desktop\ASP.NET-team-1-final (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\LM\Desktop\ASP.NET-team-1-final (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\LM\Desktop\ASP.NET-team-1-final (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\LM\Desktop\ASP.NET-team-1-final (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\LM\Desktop\ASP.NET-team-1-final (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\LM\Desktop\ASP.NET-team-1-final (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\LM\Desktop\ASP.NET-team-1-final (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\LM\Desktop\ASP.NET-team-1-final (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\LM\Desktop\ASP.NET-team-1-final (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\LM\Desktop\ASP.NET-team-1-final (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\LM\Desktop\ASP.NET-team-1-final (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\LM\Desktop\ASP.NET-team-1-final (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\LM\Desktop\ASP.NET-team-1-final (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\LM\Desktop\ASP.NET-team-1-final (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\LM\Desktop\ASP.NET-team-1-final (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\LM\Desktop\ASP.NET-team-1-final (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\LM\Desktop\ASP.NET-team-1-final (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\LM\Desktop\ASP.NET-team-1-final (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\LM\Desktop\ASP.NET-team-1-final (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\LM\Desktop\ASP.NET-team-1-final (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\LM\Desktop\ASP.NET-team-1-final (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\LM\Desktop\ASP.NET-team-1-final (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\LM\Desktop\ASP.NET-team-1-final (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\LM\Desktop\ASP.NET-team-1-final (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\LM\Desktop\ASP.NET-team-1-final (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\LM\Desktop\ASP.NET-team-1-final (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\LM\Desktop\ASP.NET-team-1-final (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\LM\Desktop\ASP.NET-team-1-final (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\LM\Desktop\ASP.NET-team-1-final (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\LM\Desktop\ASP.NET-team-1-final (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\LM\Desktop\ASP.NET-team-1-final (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\LM\Desktop\ASP.NET-team-1-final (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\LM\Desktop\ASP.NET-team-1-final (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\LM\Desktop\ASP.NET-team-1-final (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\LM\Desktop\ASP.NET-team-1-final (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\LM\Desktop\ASP.NET-team-1-final (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\LM\Desktop\ASP.NET-team-1-final (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\obj\Debug\netcoreapp3.1\ASP.NET Team 1.csprojAssemblyReference.cache
+C:\Users\LM\Desktop\ASP.NET-team-1-final (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\obj\Debug\netcoreapp3.1\ASP.NET Team 1.AssemblyInfoInputs.cache
+C:\Users\LM\Desktop\ASP.NET-team-1-final (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\obj\Debug\netcoreapp3.1\ASP.NET Team 1.AssemblyInfo.cs
+C:\Users\LM\Desktop\ASP.NET-team-1-final (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\obj\Debug\netcoreapp3.1\ASP.NET Team 1.csproj.CoreCompileInputs.cache
+C:\Users\LM\Desktop\ASP.NET-team-1-final (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\obj\Debug\netcoreapp3.1\ASP.NET Team 1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\LM\Desktop\ASP.NET-team-1-final (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\obj\Debug\netcoreapp3.1\ASP.NET Team 1.RazorAssemblyInfo.cache
+C:\Users\LM\Desktop\ASP.NET-team-1-final (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\obj\Debug\netcoreapp3.1\ASP.NET Team 1.RazorAssemblyInfo.cs
+C:\Users\LM\Desktop\ASP.NET-team-1-final (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\obj\Debug\netcoreapp3.1\ASP.NET Team 1.TagHelpers.input.cache
+C:\Users\LM\Desktop\ASP.NET-team-1-final (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\obj\Debug\netcoreapp3.1\ASP.NET Team 1.TagHelpers.output.cache
+C:\Users\LM\Desktop\ASP.NET-team-1-final (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\obj\Debug\netcoreapp3.1\ASP.NET Team 1.RazorCoreGenerate.cache
+C:\Users\LM\Desktop\ASP.NET-team-1-final (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\obj\Debug\netcoreapp3.1\Razor\Views\Cart\index.cshtml.g.cs
+C:\Users\LM\Desktop\ASP.NET-team-1-final (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\obj\Debug\netcoreapp3.1\Razor\Views\Checkout\Index.cshtml.g.cs
+C:\Users\LM\Desktop\ASP.NET-team-1-final (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\obj\Debug\netcoreapp3.1\Razor\Views\Gallery\Index.cshtml.g.cs
+C:\Users\LM\Desktop\ASP.NET-team-1-final (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\obj\Debug\netcoreapp3.1\Razor\Views\Gallery\Search.cshtml.g.cs
+C:\Users\LM\Desktop\ASP.NET-team-1-final (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\obj\Debug\netcoreapp3.1\Razor\Views\Login\Index.cshtml.g.cs
+C:\Users\LM\Desktop\ASP.NET-team-1-final (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\obj\Debug\netcoreapp3.1\Razor\Views\MyPurchases\Index.cshtml.g.cs
+C:\Users\LM\Desktop\ASP.NET-team-1-final (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\LM\Desktop\ASP.NET-team-1-final (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_CartPurchView.cshtml.g.cs
+C:\Users\LM\Desktop\ASP.NET-team-1-final (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\LM\Desktop\ASP.NET-team-1-final (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginHeader.cshtml.g.cs
+C:\Users\LM\Desktop\ASP.NET-team-1-final (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\LM\Desktop\ASP.NET-team-1-final (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\LM\Desktop\ASP.NET-team-1-final (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\LM\Desktop\ASP.NET-team-1-final (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\obj\Debug\netcoreapp3.1\ASP.NET Team 1.RazorTargetAssemblyInfo.cache
+C:\Users\LM\Desktop\ASP.NET-team-1-final (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\obj\Debug\netcoreapp3.1\ASP.NET Team 1.RazorTargetAssemblyInfo.cs
+C:\Users\LM\Desktop\ASP.NET-team-1-final (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\obj\Debug\netcoreapp3.1\ASP.NET Team 1.Views.pdb
+C:\Users\LM\Desktop\ASP.NET-team-1-final (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\obj\Debug\netcoreapp3.1\ASP.NET Team 1.csproj.CopyComplete
+C:\Users\LM\Desktop\ASP.NET-team-1-final (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\obj\Debug\netcoreapp3.1\staticwebassets\ASP.NET Team 1.StaticWebAssets.Manifest.cache
+C:\Users\LM\Desktop\ASP.NET-team-1-final (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\obj\Debug\netcoreapp3.1\staticwebassets\ASP.NET Team 1.StaticWebAssets.xml
+C:\Users\LM\Desktop\ASP.NET-team-1-final (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\obj\Debug\netcoreapp3.1\ASP.NET Team 1.dll
+C:\Users\LM\Desktop\ASP.NET-team-1-final (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\obj\Debug\netcoreapp3.1\ASP.NET Team 1.pdb
+C:\Users\LM\Desktop\ASP.NET-team-1-final (1)\ASP.NET-team-1-final\ASP.NET Team 1 - LM - v2\ASP.NET Team 1\obj\Debug\netcoreapp3.1\ASP.NET Team 1.genruntimeconfig.cache
+C:\Users\LM\Desktop\ASP.NET Team 1 - FINAL\ASP.NET Team 1\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\LM\Desktop\ASP.NET Team 1 - FINAL\ASP.NET Team 1\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\LM\Desktop\ASP.NET Team 1 - FINAL\ASP.NET Team 1\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\LM\Desktop\ASP.NET Team 1 - FINAL\ASP.NET Team 1\bin\Debug\netcoreapp3.1\ASP.NET Team 1.exe
+C:\Users\LM\Desktop\ASP.NET Team 1 - FINAL\ASP.NET Team 1\bin\Debug\netcoreapp3.1\ASP.NET Team 1.deps.json
+C:\Users\LM\Desktop\ASP.NET Team 1 - FINAL\ASP.NET Team 1\bin\Debug\netcoreapp3.1\ASP.NET Team 1.runtimeconfig.json
+C:\Users\LM\Desktop\ASP.NET Team 1 - FINAL\ASP.NET Team 1\bin\Debug\netcoreapp3.1\ASP.NET Team 1.runtimeconfig.dev.json
+C:\Users\LM\Desktop\ASP.NET Team 1 - FINAL\ASP.NET Team 1\bin\Debug\netcoreapp3.1\ASP.NET Team 1.dll
+C:\Users\LM\Desktop\ASP.NET Team 1 - FINAL\ASP.NET Team 1\bin\Debug\netcoreapp3.1\ASP.NET Team 1.pdb
+C:\Users\LM\Desktop\ASP.NET Team 1 - FINAL\ASP.NET Team 1\bin\Debug\netcoreapp3.1\ASP.NET Team 1.Views.dll
+C:\Users\LM\Desktop\ASP.NET Team 1 - FINAL\ASP.NET Team 1\bin\Debug\netcoreapp3.1\ASP.NET Team 1.Views.pdb
+C:\Users\LM\Desktop\ASP.NET Team 1 - FINAL\ASP.NET Team 1\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\LM\Desktop\ASP.NET Team 1 - FINAL\ASP.NET Team 1\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\LM\Desktop\ASP.NET Team 1 - FINAL\ASP.NET Team 1\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\LM\Desktop\ASP.NET Team 1 - FINAL\ASP.NET Team 1\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\LM\Desktop\ASP.NET Team 1 - FINAL\ASP.NET Team 1\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\LM\Desktop\ASP.NET Team 1 - FINAL\ASP.NET Team 1\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\LM\Desktop\ASP.NET Team 1 - FINAL\ASP.NET Team 1\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\LM\Desktop\ASP.NET Team 1 - FINAL\ASP.NET Team 1\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\LM\Desktop\ASP.NET Team 1 - FINAL\ASP.NET Team 1\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\LM\Desktop\ASP.NET Team 1 - FINAL\ASP.NET Team 1\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\LM\Desktop\ASP.NET Team 1 - FINAL\ASP.NET Team 1\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\LM\Desktop\ASP.NET Team 1 - FINAL\ASP.NET Team 1\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\LM\Desktop\ASP.NET Team 1 - FINAL\ASP.NET Team 1\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\LM\Desktop\ASP.NET Team 1 - FINAL\ASP.NET Team 1\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\LM\Desktop\ASP.NET Team 1 - FINAL\ASP.NET Team 1\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\LM\Desktop\ASP.NET Team 1 - FINAL\ASP.NET Team 1\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\LM\Desktop\ASP.NET Team 1 - FINAL\ASP.NET Team 1\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\LM\Desktop\ASP.NET Team 1 - FINAL\ASP.NET Team 1\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\LM\Desktop\ASP.NET Team 1 - FINAL\ASP.NET Team 1\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\LM\Desktop\ASP.NET Team 1 - FINAL\ASP.NET Team 1\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\LM\Desktop\ASP.NET Team 1 - FINAL\ASP.NET Team 1\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\LM\Desktop\ASP.NET Team 1 - FINAL\ASP.NET Team 1\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\LM\Desktop\ASP.NET Team 1 - FINAL\ASP.NET Team 1\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\LM\Desktop\ASP.NET Team 1 - FINAL\ASP.NET Team 1\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\LM\Desktop\ASP.NET Team 1 - FINAL\ASP.NET Team 1\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\LM\Desktop\ASP.NET Team 1 - FINAL\ASP.NET Team 1\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\LM\Desktop\ASP.NET Team 1 - FINAL\ASP.NET Team 1\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\LM\Desktop\ASP.NET Team 1 - FINAL\ASP.NET Team 1\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\LM\Desktop\ASP.NET Team 1 - FINAL\ASP.NET Team 1\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\LM\Desktop\ASP.NET Team 1 - FINAL\ASP.NET Team 1\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\LM\Desktop\ASP.NET Team 1 - FINAL\ASP.NET Team 1\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\LM\Desktop\ASP.NET Team 1 - FINAL\ASP.NET Team 1\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\LM\Desktop\ASP.NET Team 1 - FINAL\ASP.NET Team 1\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\LM\Desktop\ASP.NET Team 1 - FINAL\ASP.NET Team 1\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\LM\Desktop\ASP.NET Team 1 - FINAL\ASP.NET Team 1\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\LM\Desktop\ASP.NET Team 1 - FINAL\ASP.NET Team 1\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\LM\Desktop\ASP.NET Team 1 - FINAL\ASP.NET Team 1\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\LM\Desktop\ASP.NET Team 1 - FINAL\ASP.NET Team 1\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\LM\Desktop\ASP.NET Team 1 - FINAL\ASP.NET Team 1\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\LM\Desktop\ASP.NET Team 1 - FINAL\ASP.NET Team 1\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\LM\Desktop\ASP.NET Team 1 - FINAL\ASP.NET Team 1\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\LM\Desktop\ASP.NET Team 1 - FINAL\ASP.NET Team 1\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\LM\Desktop\ASP.NET Team 1 - FINAL\ASP.NET Team 1\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\LM\Desktop\ASP.NET Team 1 - FINAL\ASP.NET Team 1\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\LM\Desktop\ASP.NET Team 1 - FINAL\ASP.NET Team 1\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\LM\Desktop\ASP.NET Team 1 - FINAL\ASP.NET Team 1\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\LM\Desktop\ASP.NET Team 1 - FINAL\ASP.NET Team 1\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\LM\Desktop\ASP.NET Team 1 - FINAL\ASP.NET Team 1\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\LM\Desktop\ASP.NET Team 1 - FINAL\ASP.NET Team 1\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\LM\Desktop\ASP.NET Team 1 - FINAL\ASP.NET Team 1\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\LM\Desktop\ASP.NET Team 1 - FINAL\ASP.NET Team 1\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\LM\Desktop\ASP.NET Team 1 - FINAL\ASP.NET Team 1\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\LM\Desktop\ASP.NET Team 1 - FINAL\ASP.NET Team 1\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\LM\Desktop\ASP.NET Team 1 - FINAL\ASP.NET Team 1\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\LM\Desktop\ASP.NET Team 1 - FINAL\ASP.NET Team 1\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\LM\Desktop\ASP.NET Team 1 - FINAL\ASP.NET Team 1\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\LM\Desktop\ASP.NET Team 1 - FINAL\ASP.NET Team 1\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\LM\Desktop\ASP.NET Team 1 - FINAL\ASP.NET Team 1\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\LM\Desktop\ASP.NET Team 1 - FINAL\ASP.NET Team 1\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\LM\Desktop\ASP.NET Team 1 - FINAL\ASP.NET Team 1\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\LM\Desktop\ASP.NET Team 1 - FINAL\ASP.NET Team 1\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\LM\Desktop\ASP.NET Team 1 - FINAL\ASP.NET Team 1\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\LM\Desktop\ASP.NET Team 1 - FINAL\ASP.NET Team 1\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\LM\Desktop\ASP.NET Team 1 - FINAL\ASP.NET Team 1\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\LM\Desktop\ASP.NET Team 1 - FINAL\ASP.NET Team 1\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\LM\Desktop\ASP.NET Team 1 - FINAL\ASP.NET Team 1\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\LM\Desktop\ASP.NET Team 1 - FINAL\ASP.NET Team 1\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\LM\Desktop\ASP.NET Team 1 - FINAL\ASP.NET Team 1\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\LM\Desktop\ASP.NET Team 1 - FINAL\ASP.NET Team 1\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\LM\Desktop\ASP.NET Team 1 - FINAL\ASP.NET Team 1\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\LM\Desktop\ASP.NET Team 1 - FINAL\ASP.NET Team 1\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\LM\Desktop\ASP.NET Team 1 - FINAL\ASP.NET Team 1\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\LM\Desktop\ASP.NET Team 1 - FINAL\ASP.NET Team 1\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\LM\Desktop\ASP.NET Team 1 - FINAL\ASP.NET Team 1\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\LM\Desktop\ASP.NET Team 1 - FINAL\ASP.NET Team 1\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\LM\Desktop\ASP.NET Team 1 - FINAL\ASP.NET Team 1\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\LM\Desktop\ASP.NET Team 1 - FINAL\ASP.NET Team 1\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\LM\Desktop\ASP.NET Team 1 - FINAL\ASP.NET Team 1\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\LM\Desktop\ASP.NET Team 1 - FINAL\ASP.NET Team 1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\LM\Desktop\ASP.NET Team 1 - FINAL\ASP.NET Team 1\obj\Debug\netcoreapp3.1\ASP.NET Team 1.csprojAssemblyReference.cache
+C:\Users\LM\Desktop\ASP.NET Team 1 - FINAL\ASP.NET Team 1\obj\Debug\netcoreapp3.1\ASP.NET Team 1.AssemblyInfoInputs.cache
+C:\Users\LM\Desktop\ASP.NET Team 1 - FINAL\ASP.NET Team 1\obj\Debug\netcoreapp3.1\ASP.NET Team 1.AssemblyInfo.cs
+C:\Users\LM\Desktop\ASP.NET Team 1 - FINAL\ASP.NET Team 1\obj\Debug\netcoreapp3.1\ASP.NET Team 1.csproj.CoreCompileInputs.cache
+C:\Users\LM\Desktop\ASP.NET Team 1 - FINAL\ASP.NET Team 1\obj\Debug\netcoreapp3.1\ASP.NET Team 1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\LM\Desktop\ASP.NET Team 1 - FINAL\ASP.NET Team 1\obj\Debug\netcoreapp3.1\ASP.NET Team 1.RazorAssemblyInfo.cache
+C:\Users\LM\Desktop\ASP.NET Team 1 - FINAL\ASP.NET Team 1\obj\Debug\netcoreapp3.1\ASP.NET Team 1.RazorAssemblyInfo.cs
+C:\Users\LM\Desktop\ASP.NET Team 1 - FINAL\ASP.NET Team 1\obj\Debug\netcoreapp3.1\ASP.NET Team 1.TagHelpers.input.cache
+C:\Users\LM\Desktop\ASP.NET Team 1 - FINAL\ASP.NET Team 1\obj\Debug\netcoreapp3.1\ASP.NET Team 1.TagHelpers.output.cache
+C:\Users\LM\Desktop\ASP.NET Team 1 - FINAL\ASP.NET Team 1\obj\Debug\netcoreapp3.1\ASP.NET Team 1.RazorCoreGenerate.cache
+C:\Users\LM\Desktop\ASP.NET Team 1 - FINAL\ASP.NET Team 1\obj\Debug\netcoreapp3.1\Razor\Views\Cart\index.cshtml.g.cs
+C:\Users\LM\Desktop\ASP.NET Team 1 - FINAL\ASP.NET Team 1\obj\Debug\netcoreapp3.1\Razor\Views\Checkout\Index.cshtml.g.cs
+C:\Users\LM\Desktop\ASP.NET Team 1 - FINAL\ASP.NET Team 1\obj\Debug\netcoreapp3.1\Razor\Views\Gallery\Index.cshtml.g.cs
+C:\Users\LM\Desktop\ASP.NET Team 1 - FINAL\ASP.NET Team 1\obj\Debug\netcoreapp3.1\Razor\Views\Gallery\Search.cshtml.g.cs
+C:\Users\LM\Desktop\ASP.NET Team 1 - FINAL\ASP.NET Team 1\obj\Debug\netcoreapp3.1\Razor\Views\Login\Index.cshtml.g.cs
+C:\Users\LM\Desktop\ASP.NET Team 1 - FINAL\ASP.NET Team 1\obj\Debug\netcoreapp3.1\Razor\Views\MyPurchases\Index.cshtml.g.cs
+C:\Users\LM\Desktop\ASP.NET Team 1 - FINAL\ASP.NET Team 1\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\LM\Desktop\ASP.NET Team 1 - FINAL\ASP.NET Team 1\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_CartPurchView.cshtml.g.cs
+C:\Users\LM\Desktop\ASP.NET Team 1 - FINAL\ASP.NET Team 1\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\LM\Desktop\ASP.NET Team 1 - FINAL\ASP.NET Team 1\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginHeader.cshtml.g.cs
+C:\Users\LM\Desktop\ASP.NET Team 1 - FINAL\ASP.NET Team 1\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\LM\Desktop\ASP.NET Team 1 - FINAL\ASP.NET Team 1\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\LM\Desktop\ASP.NET Team 1 - FINAL\ASP.NET Team 1\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\LM\Desktop\ASP.NET Team 1 - FINAL\ASP.NET Team 1\obj\Debug\netcoreapp3.1\ASP.NET Team 1.RazorTargetAssemblyInfo.cache
+C:\Users\LM\Desktop\ASP.NET Team 1 - FINAL\ASP.NET Team 1\obj\Debug\netcoreapp3.1\ASP.NET Team 1.RazorTargetAssemblyInfo.cs
+C:\Users\LM\Desktop\ASP.NET Team 1 - FINAL\ASP.NET Team 1\obj\Debug\netcoreapp3.1\ASP.NET Team 1.Views.pdb
+C:\Users\LM\Desktop\ASP.NET Team 1 - FINAL\ASP.NET Team 1\obj\Debug\netcoreapp3.1\ASP.NET Team 1.csproj.CopyComplete
+C:\Users\LM\Desktop\ASP.NET Team 1 - FINAL\ASP.NET Team 1\obj\Debug\netcoreapp3.1\staticwebassets\ASP.NET Team 1.StaticWebAssets.Manifest.cache
+C:\Users\LM\Desktop\ASP.NET Team 1 - FINAL\ASP.NET Team 1\obj\Debug\netcoreapp3.1\staticwebassets\ASP.NET Team 1.StaticWebAssets.xml
+C:\Users\LM\Desktop\ASP.NET Team 1 - FINAL\ASP.NET Team 1\obj\Debug\netcoreapp3.1\ASP.NET Team 1.dll
+C:\Users\LM\Desktop\ASP.NET Team 1 - FINAL\ASP.NET Team 1\obj\Debug\netcoreapp3.1\ASP.NET Team 1.pdb
+C:\Users\LM\Desktop\ASP.NET Team 1 - FINAL\ASP.NET Team 1\obj\Debug\netcoreapp3.1\ASP.NET Team 1.genruntimeconfig.cache
